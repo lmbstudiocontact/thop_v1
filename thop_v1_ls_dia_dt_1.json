@@ -1,0 +1,6923 @@
+[
+  {
+    "id_store": "-768213569",
+    "list_detail": [
+      {
+        "w_english": "lHx5ej1GaKYt2wHVViPEN6TJt7+aM0BsUc3/15Yl/ys=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "bbuxn0ubGy4Qc9d2Tl5efEF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "mKZEYNiunGXrSeihjiZCtA==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "k48bHGnpBO6+0tK8EHtnWcz27p3Uwmmew0XDn5cZ2+9BdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "9bTNUOOKYsu/K6zKEBaz4paGftniWNk3OFFP0U69Gkz/CUjsIlPmEUbs2kX9uIcbMnz+6mTZLlnOXichR8PWoA==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "rLeX7yfH2WZ0YNSeyDZmdA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "4dPmmmcvv/lo30kAKBQ5UOo5u7Mx3rp1w8iyGfDn5lRKc1/CSN21QzXKX9NroLtd",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "o85WiRQ43gJXacsWs3q8qggxYpESQ8+TC6f36drBrg1xlOaLAVBqUp7/E07uVQWwga5GeDz0gx/wddSr49Mxaw==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "7NuhPPX+U/SmsAKwnZ/NswaGvIl9VN0JeoTbqE1m7Y1s/b+7SctlGFEhpJieG6SQQjJe4YoURTPuPO27GonnOUxKr3v9eGI2RjmTbkc/VH+VcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "CRe/n/PWYuWAvMe6nhCTtrZWMUHnc4Ku78cu8POk+ujCt3PBT5bY02y8CimLqZ2uga5GeDz0gx/wddSr49Mxaw==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "UmKMAkarINpVftd1GRYPeKm27+U56CfBz2NIi5duRpEzKDThlvWlggdHhMbdvoCj",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "GXheL+0n6iWi3t7jss4H/4lcG7xE2sVXkZJN0l0j0nhRi9yinDAvQg06KlDo50uq",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "X5aTDhmGHKbQEpwqtD4H4XSYA2yRbPFDXA531CNW9bmSVLIUCgim1KN/XPtNAcjHATm4PvBSmbYSG7k6lI3usA==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "CmGwfWyfFKtm/oYmL+11/r18SDpFOxzxfi3r2qXQLtM=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "8OmzQL3MfYS/xHH5vgDpCVz9GkwY+nqhxHTr/rid0uQpZMjIhbice7+U9CInxcK7AxkkOKj2fpPigI3jF9JICBjYhazHHl2aIXnvm+V7Bp8daL5fJQ6teoupDe5hj+COQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "WTFDLKeFUvf7u5LHzSoaUD9GLm5AO30O+8U2dSgOmhElzGkS3TiiyQZ4SS194GQ/FqLgm9UKOPMdcho9DMDwxibjP1LF1cfEDA9YVOncZrmrdGI5iPfn/cSv6TDGnagd",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      },
+      {
+        "w_english": "XwRE0Dgp7Bkew6pFKaQjMVWHC/sJWcEA5YMk+588CUhBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "rbi6NOKwFy61KKQgPS1LeKF+IMEJ8dbeHTQ076SDcoC3I0ElByvGpdhIL3uyHbcmxPrTE5w2b0lB880v2GNmm34tbzWn18uNxnJ4K4tXSG54me5YuxwAZc9jpAqS6Fy0chpWBe7+LkZ+aLk+ntYkFQ==",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 2
+      },
+      {
+        "w_english": "svspdxK5V6IZTcSm+xlafW5//Yw+X24liI6unjOFIE27XJft6rKYB9kXx1GajIk965TyZml/W1SI0zGfo3fogw==",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "LoNzcZ2nck5eLafrC2pWjwW0dYtK+azVkE2Kb4kELY106NJhox1bHW6QVM+0h6EWtB2uC1DQD6IwAt0Otyjez/bwack7BU0szqyppDXalmRcLYMDpt4CxP8YzPZCG/lhkqaZNP6WUnHQp/fhioS8WGqhS2yWv98pMFTns6axj/Y=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 1
+      },
+      {
+        "w_english": "Vd0rL+GT3zYdq/SQ7lUtvnXagnIyr3nSGMe0J6fYG5s=",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 2
+      },
+      {
+        "w_english": "xjpzkhLH967hVEEDYwUkqLKNJkK9N6SY1KJqz48z65o=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      },
+      {
+        "w_english": "i0LmVTphRlFi0bTWyzUWE/iNLDx4pCGx0f6euEp31C0=",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "453851636",
+    "list_detail": [
+      {
+        "w_english": "T7bQ8aLWOU0s74UTMR+Xjzu1fSOficJuABwHEw/EK+M=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "x9Vx/aSXdhvA4VzoKkWGJxssYhPW5bZToOILg1c3M+U=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "TjBIQNUmOcL1vHjVLAAORm52eBt2QVn2yQfbUDUhaZuVLZuJGam73q738M8CU6qy",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "4+d8RCwNhVQFM4y79ivPSpvedf2csrHX7xQHqePDKyhSIeJDtQphwRpwL/qoV4k7",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "UcWdqWLuNjRDUrFhAT5nxRQ6080dTPJdT/hsGxoXe7U=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "AgSlY/kcU8ie5CtQCkFwJA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "ZkkhuQ5e/aewjEnWZwdNlAqjFovrJpheA11B2SYFhO4DzvCY3ohIliQ+sM6p+RK8",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "XQ0BkRiyBr5zEU/E7/D5EwsmkTFEhyozM0Zdr05db1fYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "MWRxiCjbRkAUvSclSwR+Ew==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "fmZI3yIWhbCqMC1lLTh8pjKC63HYSCM4c3Wa4AZkQ5k=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "eFhvyiLx69va1KKFn8DKWg==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "NoCH5SrQiIXUEUd8xFl5Kg==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "QWGInmEbMKFD4EXgkHgECbpwTE/50t0UXuzUvO6gVpJsFRCfV4hSj64IVTqBznuKavspUGfHtYgIQMa+CtEx/MMtw2xjO5NN+ARpmebHszzRIZJMBRIUFPGDMfHjnRLB",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "wEsMM0Wvf6mgi7YhANkGHE191qcaNx6eNZcGIYXayOhl6bi9mJJFVM2qxOLxXpjbIkHLsoPHUQ3SGptU7/4IwgF0+PLJOtBGWsJImNTT+Efo4DS+hjpghdR/xSwxqeDnOCEROwqzgHAw6oRUItsSFQ==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "q0BZo5W4zKbR3vuhWjrfhY7iujaqq+f/on4gJOr7YrCVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "Q+ODBa6mWF74TLf3+mjAaIK8QARIhExQBj2ku+9ExgtzRGYSkkW5BUpMdCvaoDGg",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      },
+      {
+        "w_english": "ZTH7MrMynhXbo346g9yLEEQU6Zh3vkKUzsxJS4zqTKUHna/9JUBuYS6roI39oCXnDDHdAplH2Sqx76pjxukGPI3jcnFS+aHl56Jr4yfa9+g=",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 2
+      },
+      {
+        "w_english": "f3Lvtr/KYQkfcZA92MC27Zj0j9NzdDQpglGDih0BKcDu9gfcQC3otgCAQD5RUipF",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 2
+      },
+      {
+        "w_english": "QGE7iELAgvZ0eE99epLdeHrwvY19kGj3V5XxM8jW+h+uYsCOzv3+5Yj6hVFKeoTR097rh5MqBnG93CBSEpAqug==",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 1
+      },
+      {
+        "w_english": "VDjpq4stwEX/uXsoGNzk172Jbjy53u6n36RhQGGU+mwTJxuojWlskLLYppbWQLYXoYGXejNk6BNOpc9fdcEd8LwW6ZQlAPZSIQMuPQDOHTRWdyVrlhWPJ4jYT+pHsQBC4eYDU++JQMgwwyYc4/Tb4g==",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 2
+      },
+      {
+        "w_english": "wdGJeCQxhYb3jKgTCfYNhLkS43Fw9+zZoWRRktJ/lXcXgS4aYl77dpl7yjx9b2A+omMdQVgwLPCpMTpVsSzPG9r7Nmct7B8I+yCLUd14Kcp8TodeQ4WWn8poRszfuVka",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 1
+      },
+      {
+        "w_english": "AybZ3NHD4Q23JWsXd3okBqe00HFeTRyvK0HmHW6lNm2gUDTCAPfEUF1oWMxnn13cQEpfBs2fdN0NxtCuw5UTx34MkzUnuE1KLAbKp8VhNoE=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      },
+      {
+        "w_english": "54wklzjhCWxZxW5VTYATEDmSMFjCLZAWT4p9zl740nr0CmfQYBzJHVngEenkmyXKREZUD6XViijVB/zhXyQUiC50kMuIz0O7z11YYJsGwpqsL5PBRI+XV+U0Nj14vcPd",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 2
+      },
+      {
+        "w_english": "LjlwHmiNNpeINLz3NWdJtqqQKxOfg6uk4bAerbkO9bIerscA0o3j1sZN4CoI+JKBiT9Qqa57ut8AWIKGsjXd5cE2XpVL2sMZhpkrkgpSEUd0tWeBnm86ywZXMY02WfjDnaAP2XjqbG3hWCokFNXv4g==",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 2
+      },
+      {
+        "w_english": "PNBZ4+0Ag056nOhiqPnzJxHBMvFMfgqUMRdoz+j8q2hqH0yLnTJpxokw3vAfWsFIg/SU1MfuW/zH0krAtq+7umXyKmkW3oL2F+X4msQbRCSVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 1
+      },
+      {
+        "w_english": "Pl6Gxtzwg61T+tgrO48mMW4RyI5Si9iaLU2IrQfHY0N97TX6e5XFI/2CYpl9RGhfgQzjb53H+2RANotR0MFWmrbxkojVwLpQYdka/CBuhic4YgBoVoRgmdemOFm4H1UX",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 1
+      },
+      {
+        "w_english": "qVy7/J56V214ivHeQBQGoRvFcQFSCbCK08iLA9VphZyGZpVE9B4kOliQAegmYFoImAe/03naFMnS/ztHmC6U3GRCK0WfvlDMcicXQiLAD24=",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 2
+      },
+      {
+        "w_english": "wNA2vY97/83Nq686ZiJC0BoXbpATkXUQ8j3VXnAj3ZCmfclUpJnzTBTZw3xK/rHGbhP/v27LOFPVsKUJvJQuCEZxeEQdh+OefKl9y42Ljf9YObTYYwnVOd35B8PHhpAGH41PCI6xqycW74By/cBCCkF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 2
+      },
+      {
+        "w_english": "lwtO/nXLIy1xCJaMlyGacEePjzrrfLgyHEIbOdoCJQGfdC4wCYu4UXofexVgCdphVXpMttqtGwlSjluFLc/tMQ==",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 2
+      },
+      {
+        "w_english": "tNTOlMiQ/oc4bQNWl534QYHQzQOXPmzrW5d6HtKQ1qjlT7nHHgJVHDHOodw7PaU+WrEkPhTw1sJLOhYq+orcYIGuRng89IMf8HXUq+PTMWs=",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 2
+      },
+      {
+        "w_english": "wiQOOzf9ixAtoUyYgIWozlh+eW8oARA4qoJJSv8SiA81DtqPUorcZwpPuFmzU7/EeWJu9kqNg02XIj+zB7OVd+e+FF806cxV6VewK2mZi/4wmi3Os9wpF6Rps6rxssk7YdDGfyy6Bpp3baUlsB7tHPgd0MnsD55EKwyfdD+mG9s=",
+        "w_vn": "",
+        "index_dt": 30,
+        "character": 2
+      },
+      {
+        "w_english": "8h3DIbGaExa85RFXDrTi/bw5C5IFWtYgRyuX2vQwqnM=",
+        "w_vn": "",
+        "index_dt": 31,
+        "character": 2
+      },
+      {
+        "w_english": "v3Y3EJbWxWTae+CY9E+kzawN/SWnP1TjZ5TAzA+qiJfNqSjgSKhQbOuJOwt6PbZr",
+        "w_vn": "",
+        "index_dt": 32,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-268643818",
+    "list_detail": [
+      {
+        "w_english": "ofAjzdi4mckJ9Dgq/5VaW9UQ76UWtgXdOf4aUX9UGrpBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "3XamPu1ifRlZa3qH96YVJDl+TxBeDKOhTdUyHGteDyE=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "VHWvArVaOGUbcOEYnJNGIkWEvvNeKrivgIXhTizi0YlIMqHXqk533hm4k8u/EFqRA9z5hotVIPkLXIE/INcEzpNeSXPIEiVa/FP8Mx4y2Os=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "dG7blkqCNysve2n8hzuj/w==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "TGpvx0O93xYGlqA7A34QZgEov0dPp4T0eoZxtTpgsXI=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "lxjl/tQIhwsSf7N6rBmiGlMroxF6p+yHTBnyC5PXKzEjwv8axyT4S5LgWKaIeqwOah2xpw6BikyCRhqt2F9UTA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "TTmdyvPPKljmg+MNl0aG1uqmO5s5UpzI9EWbjEu4qqB/8h8tgRR78RXCsrOIgtNL",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "nDEdzQvztbLYIEgvxeaUGA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "v99eksb2gOCDaNBMtWZiqkertqgsZqcY1XyYCHSGPYI=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "rOhvp2iPq14cwKPr+SzP0A==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "GzWWc3pjmno/F79t7lHoJH3uJvD9C6MWoklBIFUTS9w=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "KymEzbZbdTfK7gj2Uiffqw==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "xKnMk9tFywRjh4xmPJzjnxae86QuEOHSL6har/QOqfVB+1LqEeu7JUC8QO3OwSerGenhT2BYvp9D5ciGrAj5wauChDayOiEpgbT+NMPYBwPYNzgBWPafZZ8920oBYvpP",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "D7mQiabB5KuWQ6bzPVFlqvqGzGbFLaEgbNAw1/6KJKv7w99hVuqo2vFN+xHunPi1twLVW1T3s5bM60XQkC30kw==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "KzJnAayS9bQK1jkSXZPrxHdSOhW8wyMHxhiEyDwOcjxM0gMOGZyEwL/tqLIZIzDz",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "0iGCcvPxI6rkWJgA7+c9GA==",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "3C4dhes4QfcJus1GzqyKfs2SZtJH0v3e3mY7MawjdyLpTdG5cx74FMuLs0T9wycBPbSFig2N8L9ac4yb9BR+zw==",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "3CithjYMiwR/eNel2k5uFNCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "xG/kU39y909ikOzAIeg9yw==",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "xmpPLMIxTJY0/XQykEUfemtzdZtYXqnnXTf14u26+K8=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 1
+      },
+      {
+        "w_english": "HYuZsrgH5u1mVZq9YoVauoebAGSHafwoSB51d+ZQ/bGr9lTWYWVx2VShh2Nv0C2uQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 1
+      },
+      {
+        "w_english": "5UPB2d9Bv7m6Qyphza43mfLIkhtQNfzi1u9s+ZLrAH9xfcdzw51qwPCdnNncInms",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 1
+      },
+      {
+        "w_english": "BWRoVdSJ24oJEW5ntrrhK0V9qZjU/ev0v4rCE4ETr7ge8KyRbA6yZDYiuM3zBysO",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 1
+      },
+      {
+        "w_english": "++yP32ezaK4jcqkENKi1WEfIqjhWYBBsA0sqwwpaHAIRcvyv1IUoM9gxTfMommDv",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 1
+      },
+      {
+        "w_english": "gTgDtejgmbmTf31tkwCgeyE1QHdOYCjoNjXPljXYIIu2cLzekBQ/PsOXbyxzChcB",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 1
+      },
+      {
+        "w_english": "5WagnyL5BY6p9sdJYOdzFkNBna8yGBYIQKZLv8WMapXf+WSjl4tVuU/ksGsbxbMnqiF7iiyQjCFnSu7GygrEo6Qs4hVH8JSGUmiTfsmsPR8=",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 2
+      },
+      {
+        "w_english": "0iGCcvPxI6rkWJgA7+c9GA==",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 1
+      },
+      {
+        "w_english": "RCqjRo3L6N6m9L6gmdi47gQeB+G5DEgF5ykzq+2iyaxtphbY/6K3l715MVhosvji",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 1
+      },
+      {
+        "w_english": "mCTG0fJz5B1Qe21n6ndofX1Jp+6Q2xrqI8LB6jcrqi+VcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 1
+      },
+      {
+        "w_english": "DTBfA42J3alGNMr9GRG06WS+Y1quJ92u3+6R8hk+VSIkK36/wW29swrNGSSbwWO1",
+        "w_vn": "",
+        "index_dt": 30,
+        "character": 1
+      },
+      {
+        "w_english": "00Rtjz+51gjpk/RdHYObeomHxQAs6+IWWRVq8TcYCDg=",
+        "w_vn": "",
+        "index_dt": 31,
+        "character": 2
+      },
+      {
+        "w_english": "TSEB7cJR40p4TAYKCsnq2YaXG4jiIBoZCkAiFREA/aE=",
+        "w_vn": "",
+        "index_dt": 32,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 33,
+        "character": 1
+      },
+      {
+        "w_english": "xGQkIQSODYa01K4iA2zL222LXydbXTrQNJLoMke5XefD7/oQ+5brn8mDH3iGzTul",
+        "w_vn": "",
+        "index_dt": 34,
+        "character": 2
+      },
+      {
+        "w_english": "lY1FR5WMSI9Jmpe2Z3ITtji3OVPAyZYzEQf2B1ryxrU=",
+        "w_vn": "",
+        "index_dt": 35,
+        "character": 1
+      },
+      {
+        "w_english": "RyJ1nlQyotasqs79zECgKuG/5ugpwuTkUcGtMCA1kAg=",
+        "w_vn": "",
+        "index_dt": 36,
+        "character": 2
+      },
+      {
+        "w_english": "Ud6s31PVMghffCB/WqOZVUpHleYWixjpV+jx/TiVYeUGYGFy1ZrMmX2CD/gq63+rFh6mpP8dfTjlz456IQEeof2aX184hD/DsbrtUn8LVeYdO/ihM+uWGxtdDNl3UIaZ",
+        "w_vn": "",
+        "index_dt": 37,
+        "character": 1
+      },
+      {
+        "w_english": "s58DC4DjyTn+o6oVh6sLaw==",
+        "w_vn": "",
+        "index_dt": 38,
+        "character": 2
+      },
+      {
+        "w_english": "aSadTTNG4ycOZVlGHrG6PsUvLqzpmVXxTGCa44ofTAWIfYkaCFTZqQ1ymjCoP+RHOtkwnBZeOQ7G/cMiFI4OIWcU356VSbPB3aClDKT8NcI=",
+        "w_vn": "",
+        "index_dt": 39,
+        "character": 1
+      },
+      {
+        "w_english": "4SU9y3x1Tb4dkuxjB1JSZVqa/IuAK53lIo5HhdQ8DK6vSW66aa/TCC6JqcDBIZQO",
+        "w_vn": "",
+        "index_dt": 40,
+        "character": 1
+      },
+      {
+        "w_english": "4AgzSUMEESEWK6FLJ1UMD9sF5+NQg4lQvFAxaOBDUApcF0Z0W+VWgrtjHNcm14nKsm/o76RpiV5Nobz5cSCg+1k8UpwPJJROj++VZZuFQcBiQdpPg/XJQdttyMRM7xtA",
+        "w_vn": "",
+        "index_dt": 41,
+        "character": 1
+      },
+      {
+        "w_english": "69p5esQHWTwqdk3HbUuZ/YzveZ+uU4YKImMMUg6hIh8=",
+        "w_vn": "",
+        "index_dt": 42,
+        "character": 1
+      },
+      {
+        "w_english": "WToPWa6GPJTmpkIVfGP/XxA6wyQFIrRURHKqEnYn2Fm+8qqqtNq03OhwB/f9C+qLpAaG+wlHfgk/4srGD/zNSg==",
+        "w_vn": "",
+        "index_dt": 43,
+        "character": 1
+      },
+      {
+        "w_english": "2+SIPCRm4+nqkLqaoHte5//8INbOWE96PxgyNiVj5TlA5ZfzFrewsc6qf2u/QooNowHvjhoiX2s1mRKIt/KVxQ==",
+        "w_vn": "",
+        "index_dt": 44,
+        "character": 2
+      },
+      {
+        "w_english": "WJByfBLIzm+hPCWhnLNKYyIh/3Z8mDrBwQaXU0yF5SSezveoIRQwE4d88DcooH5vI4a7XEXY670IBpuVM9vN/A==",
+        "w_vn": "",
+        "index_dt": 45,
+        "character": 1
+      },
+      {
+        "w_english": "v99eksb2gOCDaNBMtWZiqvLeFziKEN4ZwjP/i6FCk6s=",
+        "w_vn": "",
+        "index_dt": 46,
+        "character": 1
+      },
+      {
+        "w_english": "hb+3neQbYLnUMUrMsTQLz5PVH+BEKPfe61FIba+lmOS/YAlZ0BwWz5tqWwI3nZrNH9zG9CUpTg0eL7iNuo9U2GQw7AIbOSDqr8UJZ/ggvOc=",
+        "w_vn": "",
+        "index_dt": 47,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 48,
+        "character": 2
+      },
+      {
+        "w_english": "FYVfV2H37cw2EKBEIzuepg==",
+        "w_vn": "",
+        "index_dt": 49,
+        "character": 1
+      },
+      {
+        "w_english": "VO48XWPmOL06StMJ9PC1DLm/anlovbKedVKadRLT9ajqFyNCj9ZAlJKZLT4/mYRyMAju8tf2vvqMClzS/hQV0BO+oUb7QiK4GYHCJpb+bOc=",
+        "w_vn": "",
+        "index_dt": 50,
+        "character": 1
+      },
+      {
+        "w_english": "MVIzZvidUaRrY2dQhGHStg==",
+        "w_vn": "",
+        "index_dt": 51,
+        "character": 1
+      },
+      {
+        "w_english": "Abk/3hFjV5STTiM4cimdcw==",
+        "w_vn": "",
+        "index_dt": 52,
+        "character": 2
+      },
+      {
+        "w_english": "5x2AiQShKn0Mi8nSkK/XBNbSQoOHsOjCboxj3YWATYw=",
+        "w_vn": "",
+        "index_dt": 53,
+        "character": 1
+      },
+      {
+        "w_english": "ftw+k5bXzaYBIwEVVCTzWVsyOQlBDFhnaqQBxA5CREl4wX8C+PvFCGojdh7cf7zJ",
+        "w_vn": "",
+        "index_dt": 54,
+        "character": 2
+      },
+      {
+        "w_english": "RXKNfNVPXzU8DrzWpPqBa0ERaGUBmc3OG7xKByzbwe8=",
+        "w_vn": "",
+        "index_dt": 55,
+        "character": 1
+      },
+      {
+        "w_english": "rU0BZiwkB9pwEYdJjkQEzso16QkZahtDJdnSlHw0egE=",
+        "w_vn": "",
+        "index_dt": 56,
+        "character": 2
+      },
+      {
+        "w_english": "a/BGQm9YRsyf3p3eve0TnA==",
+        "w_vn": "",
+        "index_dt": 57,
+        "character": 1
+      },
+      {
+        "w_english": "DXgTUAWkanZ8d7R2g+bRc9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 58,
+        "character": 1
+      },
+      {
+        "w_english": "5KEy9qTTM7XiHkvbvmnV6A==",
+        "w_vn": "",
+        "index_dt": 59,
+        "character": 2
+      },
+      {
+        "w_english": "49+YqR941L6pTBql6AYNJioqgaNTpcSlOHUefXDyBcUhAYhC199LdiVSK7yDWrrf",
+        "w_vn": "",
+        "index_dt": 60,
+        "character": 1
+      },
+      {
+        "w_english": "9PrXanjruocWicj7kMzy4nXagnIyr3nSGMe0J6fYG5s=",
+        "w_vn": "",
+        "index_dt": 61,
+        "character": 2
+      },
+      {
+        "w_english": "MWRxiCjbRkAUvSclSwR+Ew==",
+        "w_vn": "",
+        "index_dt": 62,
+        "character": 1
+      },
+      {
+        "w_english": "Dtvb8o/AkE/AlbKOkuTHRA==",
+        "w_vn": "",
+        "index_dt": 63,
+        "character": 2
+      },
+      {
+        "w_english": "8vhOa4v6HVfITgUXI8J+GT6ZHG/CMJE//m/GdkqbR10=",
+        "w_vn": "",
+        "index_dt": 64,
+        "character": 1
+      },
+      {
+        "w_english": "HClECnCr3NmplbT6PZ4Za/lOTZ6crVuG0U+QFW1y9lLWbY8b+Ks+n6LFzp8nmE3g",
+        "w_vn": "",
+        "index_dt": 65,
+        "character": 2
+      },
+      {
+        "w_english": "8oO/gQa69W/YvUPHSIOvXA==",
+        "w_vn": "",
+        "index_dt": 66,
+        "character": 1
+      },
+      {
+        "w_english": "JJ38d8LfLL0UQRNC9oXuTVwUcx5UUm19f5+xQAZYjig=",
+        "w_vn": "",
+        "index_dt": 67,
+        "character": 1
+      },
+      {
+        "w_english": "UNdkDM9FIphJo+uZT5CynA==",
+        "w_vn": "",
+        "index_dt": 68,
+        "character": 2
+      },
+      {
+        "w_english": "ZLh4ATmPkLiTMlmExfG574X8hC6lgN4uQ48rVk+j+7c=",
+        "w_vn": "",
+        "index_dt": 69,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 70,
+        "character": 2
+      },
+      {
+        "w_english": "GlpyYqFFcUeKB0tF0h9D2w==",
+        "w_vn": "",
+        "index_dt": 71,
+        "character": 2
+      },
+      {
+        "w_english": "iDzI99wd+4f5AXAgWNqA5F9dyf9fq2QBHo4FGRJIVAq++kF0TKUo5KOqYQopmBj8",
+        "w_vn": "",
+        "index_dt": 72,
+        "character": 1
+      },
+      {
+        "w_english": "RmYAfUVD0Luyiw0HLAhoDw==",
+        "w_vn": "",
+        "index_dt": 73,
+        "character": 2
+      },
+      {
+        "w_english": "WsXfyt09iB1jW5JIqHb3ZtLpGpXCknBezD7pmVMcY0p/Eh400ykNlpO5+DSD5EacTl7IqWfpwly9zAgAdqaHOp/bqcUT01O97KnuYqf7nHU=",
+        "w_vn": "",
+        "index_dt": 74,
+        "character": 2
+      },
+      {
+        "w_english": "hhLN1B0mBTFpPqmC958KGv/yqP8JDM9n/L4KSfODiHQtkBOGvOoBXmFcJUMnP6u/1/TMKDyuSOlOFUtGDgqA2R7G75Bji2dCV/vmqA/UGk8Og6hdsfD6fAeKDt+WONGw",
+        "w_vn": "",
+        "index_dt": 75,
+        "character": 2
+      },
+      {
+        "w_english": "MVIzZvidUaRrY2dQhGHStg==",
+        "w_vn": "",
+        "index_dt": 76,
+        "character": 2
+      },
+      {
+        "w_english": "e+6RMzP3XN2in/dO5nQQeg==",
+        "w_vn": "",
+        "index_dt": 77,
+        "character": 1
+      },
+      {
+        "w_english": "fnQmPZckZ9fKyPnkQS2LDkcGnvFybEqvgsjA3QP3e64=",
+        "w_vn": "",
+        "index_dt": 78,
+        "character": 2
+      },
+      {
+        "w_english": "x2EQYazH4m2bM761tYw7Iw==",
+        "w_vn": "",
+        "index_dt": 79,
+        "character": 1
+      },
+      {
+        "w_english": "cOxaiHq7CG4UW4JZ4+BxymGalbLaOpzS9rzRDojAhTBSwILL/5Ve0Kg1eh7XI3sGlXLjvToiFCBJiWDCuBVEdQ==",
+        "w_vn": "",
+        "index_dt": 80,
+        "character": 1
+      },
+      {
+        "w_english": "WAM+jpFfezEr6v9x7rWedQ==",
+        "w_vn": "",
+        "index_dt": 81,
+        "character": 2
+      },
+      {
+        "w_english": "J/YVWh/WKZp39ASm0ro71ThzRLcl9CLEXr/kmoWzc5W3gmeShPNhQwCwczCACjNH",
+        "w_vn": "",
+        "index_dt": 82,
+        "character": 1
+      },
+      {
+        "w_english": "6nTlWsSZviHAmkc5bu1WgUzqyX6bjfAs9ZE55lKt76xV3O7nS0crYKtaPSyDMPo2KuipSWtVd1+caL+el9qXlg==",
+        "w_vn": "",
+        "index_dt": 83,
+        "character": 2
+      },
+      {
+        "w_english": "WQAXdp3ksl556yyHLpo/q7XWYI8r/T2C/KOqykeSg15huatrYhMv1wByEBkQI3yiJjXV5j/O8KtCnB3LX3u4oxSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 84,
+        "character": 1
+      },
+      {
+        "w_english": "eXQ4e/EKHJBnooeKEOUJFA==",
+        "w_vn": "",
+        "index_dt": 85,
+        "character": 2
+      },
+      {
+        "w_english": "lJGm94yHetilEHStHFgYCA==",
+        "w_vn": "",
+        "index_dt": 86,
+        "character": 1
+      },
+      {
+        "w_english": "sDPCJxXMlav3HxKPaQn0+w==",
+        "w_vn": "",
+        "index_dt": 87,
+        "character": 1
+      },
+      {
+        "w_english": "ZTnNfmpu4LmFsIQ4euhdIg==",
+        "w_vn": "",
+        "index_dt": 88,
+        "character": 2
+      },
+      {
+        "w_english": "AAqRiFVUm0d5/cESMqcXRQZjO4BygO2i55wRPQLhan/hlnmJMQbIT7cEygqF0Jo8",
+        "w_vn": "",
+        "index_dt": 89,
+        "character": 2
+      },
+      {
+        "w_english": "MWRxiCjbRkAUvSclSwR+Ew==",
+        "w_vn": "",
+        "index_dt": 90,
+        "character": 1
+      },
+      {
+        "w_english": "8QYUBRXi9XKhA641m8AXd9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 91,
+        "character": 1
+      },
+      {
+        "w_english": "X72VJbynp8z4QnyzfPRNUzHP42pk26ipAg4U2KrZyLc=",
+        "w_vn": "",
+        "index_dt": 92,
+        "character": 2
+      },
+      {
+        "w_english": "32sA75yEHSg56i+vl/O2McVHpCswfHUOfbihWCWh1DE=",
+        "w_vn": "",
+        "index_dt": 93,
+        "character": 1
+      },
+      {
+        "w_english": "wnD1ITWSVMR8sf6wbbRswiappQ82CgyyYf+5pzcRQWlPNOnH1EMjlKWhZyZ/z2Jf",
+        "w_vn": "",
+        "index_dt": 94,
+        "character": 1
+      },
+      {
+        "w_english": "on82zEay43Oq87vWGTn8OCw6FMfooAS9CTmu26C7VJbQodbtzj7awWq+DGQGoMw5",
+        "w_vn": "",
+        "index_dt": 95,
+        "character": 2
+      },
+      {
+        "w_english": "xSymaOspi8agU7Cbay77NX7AyR9ZOU5ca7HEpkdJk8U=",
+        "w_vn": "",
+        "index_dt": 96,
+        "character": 2
+      },
+      {
+        "w_english": "7BXhqsVU6loXLkowyEuCiunGrSGHJhGL3uiR8GuvaM0=",
+        "w_vn": "",
+        "index_dt": 97,
+        "character": 2
+      },
+      {
+        "w_english": "vRryBjh9oN9JDDWiI+OKXw==",
+        "w_vn": "",
+        "index_dt": 98,
+        "character": 1
+      },
+      {
+        "w_english": "OcPce4RRgMJzVBb8SBFdwUxUNkKSWqc5CazJGTXVQylYvGwgfGt9MEzYUUDdDXLy",
+        "w_vn": "",
+        "index_dt": 99,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-268643817",
+    "list_detail": [
+      {
+        "w_english": "/7Tu2+J4lREYtWtkVrOiOQv1w/acFp0GRfxO5RjeJjb8Pjo3znWaG4iQ0GZsG0qbNNNMwhDxjEoxivPlLF8ZoYHyLsie1eilpyfC5XwR2SNi1slgcFJ79hc3IGPnI1iZ",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "mTsSYndmZLN8KXYRvr2m4gEw5s+OaAeYTHYRGY9qDWSL0GK8ioVwjKVDV3URXJCuhaCCYy1+rg4Ct7CEjBad0MHBbPIIGcGtAfYz7QfJp82vWn3w6VRu5x+AJnZkOyFrM1rd/CnfRl0N5FnbSFijtA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "DOSrFvG61hrnu2JK+v3yS8sZkIOPqs1sffUY8dK4w5Tt+0USIquhOMD+uC2HRQg48YbLk+GhtdCA7gvy26v/Tay7s5uoJTW48y8pfYR0ZiiDvR3/c2uYj5+owASTzc9i1RFK0XCwcw9wjrSRI8+bQA==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "JPKBTyYHSo3dznyzTFfg6ChZxPYMpJEOqasoS6PtsGAPRiPejikVZqrbdNmDFoDwlXLjvToiFCBJiWDCuBVEdQ==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "VR4a8jhuO1c7mpnRSZcTxF0oMcA3rRhkyiARVhz4Wod3S5G//TcQR4/7iOiCRvlUejegRC8iT4OJiVJU0oimSChefakyfhR/OE5Rzi0/blk=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "L3WD8vBnX7sNhWNLWEdj1ChhZ3nwbsU7fZMtvlWG4AT6cWYgGv+qoq3GfE2RlouteZi/UXNQOR+GpzYI8s2fzViZ2iqpzfwTfvbqyHzIYXIWrZCSJQ1KMZKrwE7Nyx8YInAmgyF3N05BonFSRRAUOZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "hK5GpATWi8/5IgGGw0lN4jjwqotRfHPSz6R3Jv7Y6Yi1dJHc+bX4L/fv9E3P1vyaW+xG9wjOfOQPXSs0j7o8evm8x2ccq8vWrC1tDJ0uf1l5jB2HPYlWdERb60N/I15Y",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "AKSy6yNCeRQYbK3buxsfbRSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "paOKdLBh+1/H6UIvs8rBOVXHxU/CGeR4Gg6C+W7iBXUn1EC/f26jB62qjqBtJtygu1ANWYSrNU9Z7jTXryPg611eLsCjdtpXBRwThVwWesAvv7GQAV/+iv6Aa/KanK9qbqdOZUevlgILutsunkfcqJiWPTPlgGgRBM2L9sE+XHctnOA+iZfwSn4nc0nXcEXA3OXFXm9WM6yLJrTmOyNlqw==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "LfwKGFOyn49iCnIP5u+cgU1q12WEU7EQpw0xwf/AfyFkXdSIACIxlnwHODCdYUDvzeMQPtI0yp4dfZ9TJSSjpY4luAGfMMwm6ZiTAgvO7lja2JENr/jlCnMiXws0LTkHrzF4taOs8W8DQcVemiNlmg==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "+MEs5v/g0ztL5Ut5viDJInmtc2FeoFiGcOBzvRFTbrgJmkQ9FmWpvGSl0Wc2Oko4",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "PH2fT6iIJkiyqaZh+52KjUMAM1+rtcdnpNSzwZG7FwhcyhhjDs9kM65jn/gLN0D03/CZBm7oRDe297JMUdmGaskuz7IbbOm53edoQw7uK5A=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "hQ+t6Nt4moyRb3kBKCiwAGIB6REaXcbtR0rH/r+d+me40/llhISFNcTTFMpDiwjT1QQv4CZi9a1Z0BM38P2L9JVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "I1NfaAAjyNFgAgbSl9XVq/w7LSMeNq+GT+jySaSRy7NbiedsJAN59cUBgoIjSr8CUpF3/8bgEbHxovyJM0JQ1o4l8RhR9p80bR//yTd+lS4jMehqYHSMX2KFWujRoZ+EOIlULCje+Qtj6ti9FK+03A==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "TDL9jTfB8mhQKbS1+UlZnlxpYXSkg9/q2jNMxb8IZAGgZ05zkrjgsIqrYTLfCRK7hoazrY5vGOcFSOYkgugjjne2NhAnPLUPwmPLVKeMHzw=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 1
+      },
+      {
+        "w_english": "t7D0JIXmVFgvUKQpz1IrnxNlZRbRVOpzoTm9cO4PRLwaOApKqkoVrIVxPC+nl4CW9HguHE2HLLS0YcMpT8wJi/kFQ4Xojz7/eKXps/9blYcbqL5lq8Us09/J158M/Ll0rafqygpF4LtBoBOLKhClvw==",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "xF9IIFYn/RU0r2JABlFCWKuNHJfLnwjaJJzZZ1NqWW5mXjgsLADcGvkzbTBxWrBw",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "2nV2c0hlzArDXua54TzWG/PwFI411bnHyX7/WQN/7h5CMb7qEqwbYSMmbQvfW8QVeyFrAUutEH2Tmv4V7Ghr0Q==",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "SuJJp/Pt1xuElAlwAjk5Kp+Gtxv2czpomSnY+QrHqukK1SFFTEdP8jV+V5hl/jLztsIfTyO8l6zmEbsXkBIq6cW7o5eGkuF+XBLIBUBk3oQ=",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 1
+      },
+      {
+        "w_english": "QUHv85aSDw1ZB4HOQY2hG82ema5ceR/9ra/9guEFvjj8h0Tm6eeCiRMRgeWEgaNM5fWMsLboZdCRou9eMTQGtjbT7LPNdjBpPM/5i9FbnxU=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 1
+      },
+      {
+        "w_english": "oCJpGBHiV70pO64iUAQWW9h4lvZ9RCieSEL5h1Cmj35MlEkJMzwW/VDye8Me7ZFnGpZjJyS0cT4HKaPW0VExXF4C/k9ZVxxTSRz69WM/uJjM7LYaSmDCVA0UooK3/RDC5oHIeYR3b2k+z3sqrGq6aA==",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 1
+      },
+      {
+        "w_english": "YkkUDBT6c74gCs1ynzwy3uVfF2AP4JDiuCGBUuEabHchh1VETFfQLclBomDfI04EvZNz/2hdjuylFRoJZFXu1IWlQgaJOTX98GbtNO3LqrS8T7y4N8tGgMbeFbE5tNo8",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 1
+      },
+      {
+        "w_english": "0g3eHVS/yER6UsAnHWHFboQSR/tlwwa5/xj1+C37nGwho4r7WOOpJzQ2OWPrJ73DIMcPMDWWfY6ttyzXrLa/DBCNMlS6UH+FyjxVHJ7KtBU=",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 1
+      },
+      {
+        "w_english": "oRRM5yzCLOe+1JtSwWtwIs9p0b/DCWfV5kpkMKd1gw8/RXCY7ns8FBVrsE071WGHiIMZXJ4rJgUVhI5l6iVBODWaVKbFpGW3laBaiT/kfcaVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 1
+      },
+      {
+        "w_english": "sK7waTJYe/6nfuBs36yiAuxukfQ1fAbiHdJqk1rQB5NBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 1
+      },
+      {
+        "w_english": "YRxM6LwzczJhXkvVxnMfx/IfhrgW7m/jtE6aozd0Uhmf6JwxVGF1OKswodvcpkwT",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 1
+      },
+      {
+        "w_english": "1qeFBslANpz9b2cyJL8kUpXxFg8c/aJAke4UfKjFYp3iPj5Wf9Yk9cQIBkbHRq7/",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 1
+      },
+      {
+        "w_english": "qiu/ypqNmOwEKpDFct6UeE07OVqXqha2v5Ws3JNvoR6x6U3TLOuR1rj5cbiV2RaXmMUE7x1gt1oD3cS6CQsT0QevBqJ1aw+KbheUMo96YG5OUZ1zy3kgdEC7/WAGiN84reXLgNmJO08k4oSrN4oTkg==",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 1
+      },
+      {
+        "w_english": "MaZVsS5heanRuXliCinUH6f+x6YEy1KK4dYLZ4NMqvhBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 1
+      },
+      {
+        "w_english": "1ONnk4rufXhTsy124Rwe2b1hMENKfKg/tJ8QUjPLqiP0XTnjMrb+CXTJHbvp5WxpDQib3wT4x1k4jqV2cu2I6A==",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 1
+      },
+      {
+        "w_english": "kCAu6DvIxlwLcnBAjAx1VpRePkcqaevRGR/wL3wnVqjctfFr7WXupkC7pdwIWFyP4JkwYWv9f9hQwnf8qO4DAW+akySRR4N5dt3jBlGcVh4=",
+        "w_vn": "",
+        "index_dt": 30,
+        "character": 1
+      },
+      {
+        "w_english": "V4/pNJ7/3XRaFMdohwCQeWq84wZQw4UusypSqolRF58=",
+        "w_vn": "",
+        "index_dt": 31,
+        "character": 1
+      },
+      {
+        "w_english": "YIsj5beTmu1UBUOkuzZRgE3Vk35KU+GbIV+lpKaZkk+VXBLD6hi+m+uDJVruvF4tRcI8/ON2mvvrCGhI1vUZKIONQLwLorzS5ajjU1TfV6cHWU5NTJ+4dST1hVWvYewhOIPuCwgOa4Rl6BWLc/lo1A==",
+        "w_vn": "",
+        "index_dt": 32,
+        "character": 1
+      },
+      {
+        "w_english": "p5hQTJybZupimyE4rSGHim96JR5b2Lf4L9Upvsqk9c8Sdu/bc5tWujpPPnooBwbQedPD47Uh+DV5RzH+gOimHuim2qJidvGiaZEUU2OIXFk=",
+        "w_vn": "",
+        "index_dt": 33,
+        "character": 1
+      },
+      {
+        "w_english": "s88LiOzwC/s6CZ9kD6Z9LoXk8yvnAsY480umgQOZwg5wpxSRviGf+3YN/+NYXzghaa1U52zYf07WsfVQavYdeQ==",
+        "w_vn": "",
+        "index_dt": 34,
+        "character": 1
+      },
+      {
+        "w_english": "cfgig4OK0s3VcLunL916tD2Yr0QYsdC77zpNoToK42pitT2H6ZiBcfCwol6qBbhR",
+        "w_vn": "",
+        "index_dt": 35,
+        "character": 1
+      },
+      {
+        "w_english": "WQXVDNcyWSyNj8tokSJVhwESqKg46sWe0DxW3LZZiKkauuXp1G//O5WoycIbXLJ4ZWe8br1J2+4X9VsEyN727krHoQOpI8JyNx7cgfuI5j4=",
+        "w_vn": "",
+        "index_dt": 36,
+        "character": 1
+      },
+      {
+        "w_english": "8OO+WjQ8/P5Hnr+10r+VjSgbi6gVmRhGsidZ8O2zAxcSM1pn8P9PEtdkTVr60CQx",
+        "w_vn": "",
+        "index_dt": 37,
+        "character": 1
+      },
+      {
+        "w_english": "2aSgeiHl/Urgzwn9ZU403YMopj33iGrcJDjX9bT1F2nAu8eAT6FFz4J/2axPQE85Og8vynajNm/jt/dQxjBRjq+LmiO0mEv/ZPbymtxctdxPQYAveghkIDUO+LrFq/PI8PFG833lHz7Osg0k13CwcA==",
+        "w_vn": "",
+        "index_dt": 38,
+        "character": 1
+      },
+      {
+        "w_english": "8ZwCJ/n4Sc3+dOeByvhLe9I8fjPQT7JwvEh51Dxr+VA=",
+        "w_vn": "",
+        "index_dt": 39,
+        "character": 1
+      },
+      {
+        "w_english": "9RjAXe/CimbQ3w6Ahgh0bdjb2IjXGmy237NtppimXAXOCg2QmK64Rb7IUEqVpF+rMvl9R9Xr3Eu/vYRtk/6oDJ/BO4SkYiz5ktJsqFHt17q7z0T+L5WiYcyUUfBayg1tMT8e7loySFHM9hJD+gkb2A==",
+        "w_vn": "",
+        "index_dt": 40,
+        "character": 1
+      },
+      {
+        "w_english": "jnOTKCAj4/ZyheA4Q/LJCiTusO01rjUTLJv6YpjrZhDBb9FIdaX2qjDBPT/wbfB5iDY7qdFh3crA6tA7VI67yzPuY1cez3A51quKE0tmA8Q=",
+        "w_vn": "",
+        "index_dt": 41,
+        "character": 1
+      },
+      {
+        "w_english": "XZnOuLxMcI4iBO1sYUe8ej82hPoM7DO/vS+DzwKthsuqcZqm46hqOYqckc7hta9qfRf2lwFe3dGe92xv6muH+QbKQGP23wPhVMIgxkR5W69EQ4rzSqmilSq3iTm1rXtx",
+        "w_vn": "",
+        "index_dt": 42,
+        "character": 1
+      },
+      {
+        "w_english": "kK6lGqZog1BxnBZyc7Zb6s9ZV3VEqU79/4DX0p2clk9cPClEKrY2NLEVEgEi12QSwQMlabGWEdmeFDJneOITBg==",
+        "w_vn": "",
+        "index_dt": 43,
+        "character": 1
+      },
+      {
+        "w_english": "VO48XWPmOL06StMJ9PC1DKs4oMulIHd3yGtCv6b/Do1BdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 44,
+        "character": 1
+      },
+      {
+        "w_english": "i2pY1UJgennb04huoqroB75xD49fwIf7tJUxZPgvkPca7j7ouFy4WZtv2roPTDYjehnmq2QKpxFsDFvLda6b3X+6HanAOv7GcoiRC8ADcYWTkYkQhC6b8Dq6MZa0mpb9JPApQHaxH/SgTKUJwax0CA==",
+        "w_vn": "",
+        "index_dt": 45,
+        "character": 1
+      },
+      {
+        "w_english": "sGbYVJzJXg9HF/VZqk2Owlbo2CWJXR+0m7FBjZbPDdczVqGZgc0gKn/ckex5hWYzAy/viQgf4NNeI+/ICjAdS0ppt3nlMJFOlxOtcQAt5V1+DJM1J7hNSiwGyqfFYTaB",
+        "w_vn": "",
+        "index_dt": 46,
+        "character": 1
+      },
+      {
+        "w_english": "+6Fyd272GT3AMXmLY6seajEaTMLrr7tI3WF8IAx2tjc=",
+        "w_vn": "",
+        "index_dt": 47,
+        "character": 1
+      },
+      {
+        "w_english": "Otzs4T7aUGgGYUxI8tj4HLAOu58m7S7l6GpOR97ksBTYVCOBaGMjijbA28TLlJvxHDMI5Kk+et9PBlRg5ypfpfZakXIe3WoxxD8a2WxJOaslt9JjQQbP2uQvAdPrXdzd08f1LD17HIPN4RA5sd1bs5NqWwCrrHTIylnx+Dk+RuY=",
+        "w_vn": "",
+        "index_dt": 48,
+        "character": 1
+      },
+      {
+        "w_english": "vpqQNWXFhNmOBrX3+q6G0oSMVHwPbTjh+djczP7oYLhrrW8pufBH5GQMtgchv7LBpKnHBBAcKIQg7Y5J9qxDqoWVRNt6eM86bKbetpn40R4=",
+        "w_vn": "",
+        "index_dt": 49,
+        "character": 1
+      },
+      {
+        "w_english": "kLruK/ktpMBOG2DyoVBhZfskkF3u+IwNuC1S+tRCbOn03e/cNh+eyhrfZO+jK98pYrWSO8jir3KXgRLv5BqfrS6BZHjF+EGziyC8j17W1kk=",
+        "w_vn": "",
+        "index_dt": 50,
+        "character": 1
+      },
+      {
+        "w_english": "NoCH5SrQiIXUEUd8xFl5Kg==",
+        "w_vn": "",
+        "index_dt": 51,
+        "character": 1
+      },
+      {
+        "w_english": "hoRmH6y3XvbCPMRUgrwaBmKBoN+VA2vNktjXk97I49Ji3Tk8Ya9Hc+nJYHV5z4GGXgGhM6FbKhuE+jluxT6srA==",
+        "w_vn": "",
+        "index_dt": 52,
+        "character": 2
+      },
+      {
+        "w_english": "qDBjrq6IKTxPTGrpDP7qdLC8r+7ZbIGoTGLwnq0b92+Xr4bHNjO3Yv0qrIchoW7/bj/5pt4WJ4Wk3TJ43wEgqyDk0NmvhaKX8ZW8Sx2D+ZE=",
+        "w_vn": "",
+        "index_dt": 53,
+        "character": 1
+      },
+      {
+        "w_english": "dWziRWGeS0sfLBO+yWhGNdrvp42nPxecVfHxrvPkkjthOa9kxNVcv0LA9bNctis8U+D/G7LsAivKkVnOVg0iuLMcUkd9B+vAtZUc1EG3kNBlnZ/4ZtzhoDzOOxapZBI6BUym2PURIDM1aKn0ADa9cg==",
+        "w_vn": "",
+        "index_dt": 54,
+        "character": 1
+      },
+      {
+        "w_english": "/MnXwIPPJ7ak6YniwwCrVcQdRrXp9M3BQywdQTHazaQajKVSC8R63EVXYJuBFs2K1gtZl2QIwbpTtreXSDEWBt6nLEKUJsJVW94tEgiiLbVTDoInfmjjGn1U5vnZas6fq8etdDn0GrlREO8qBXpKlsanteUJal1/8JNKTpBiBXE=",
+        "w_vn": "",
+        "index_dt": 55,
+        "character": 1
+      },
+      {
+        "w_english": "G/Tf7pefzMP/pjS++9rziCa5Rg9JuCASDC9YPl/oqqXSFrSNQTF3yFXA8yx1Tt/o+UyWL3rjvO/dooR3ehX2KQ==",
+        "w_vn": "",
+        "index_dt": 56,
+        "character": 1
+      },
+      {
+        "w_english": "dioajw/rj3ewSkbw31VAJLDysYCnz7L4SzUPITLVoi0=",
+        "w_vn": "",
+        "index_dt": 57,
+        "character": 1
+      },
+      {
+        "w_english": "TlmWCfXNnFz1cvE7uV0bNJVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 58,
+        "character": 1
+      },
+      {
+        "w_english": "4pwwL3O1vy6pZUsBYR2Q+xAnF4R5IXqU93jNGGir8kty9evj0YaVxCMl+2HfqWMZQeJ5CGgnQ6KyeEYTjPThzfp3w+Dc1M4Yea0VVfA9Poo=",
+        "w_vn": "",
+        "index_dt": 59,
+        "character": 1
+      },
+      {
+        "w_english": "2KQO2f3ffgegueKxpKqIn1jgT7/e0hm5Xi7SQlacjKo=",
+        "w_vn": "",
+        "index_dt": 60,
+        "character": 1
+      },
+      {
+        "w_english": "AoA6ep9WL0YPhnDQORIGiyoMZD3m+Ki8/rcwTFBysD7/xJrKZZmfS/szpLBAN4lPwMRvIAnx0918gOR5bfEaJg==",
+        "w_vn": "",
+        "index_dt": 61,
+        "character": 1
+      },
+      {
+        "w_english": "M8P0JtYHxAA69mlbmupMCHSotmqi6r0pnI/mkP4pYmrDZDNf7n9tKHsjhOu7pGFoPQvXwFSarx2XQllDotTHd9TrHGalg/i7U4/uIkFqcvdaRBcSHzWi+tXYdoqsj/J0",
+        "w_vn": "",
+        "index_dt": 62,
+        "character": 1
+      },
+      {
+        "w_english": "nY6HF3ikRk2vKQGhHWvRqV8D0Z1XpMTyRJtX6vI6AM5A3GqvTxUPYZt6ecMwb3c7",
+        "w_vn": "",
+        "index_dt": 63,
+        "character": 1
+      },
+      {
+        "w_english": "sMzv+dqC5ddzHUP6SAn8U+gY4HwhLqFo8mdoJxRfrC/FASeMpXZgSWtJqVOlo7YsMf7lz0KTXUy1U1yqSnQRnGtZ1wj3N7tBEiQVSBxlFmDJ0dLgdto3PFtsB6IdDMwF",
+        "w_vn": "",
+        "index_dt": 64,
+        "character": 1
+      },
+      {
+        "w_english": "kK6lGqZog1BxnBZyc7Zb6rPnn2IWd+T7rNWSKuv5BQPaZ3apmSXxSuQlTHlwP2koz/gyf6jtwasy+C+1LYnzJ9aYXOp9gsuyVQuHNO+6nk0=",
+        "w_vn": "",
+        "index_dt": 65,
+        "character": 1
+      },
+      {
+        "w_english": "eP0OmErA/ensAmzdu164bx3Bvu5aVkFkdfkV+JpOGV6KdbU7UntI/8aGsXA/BREzKWvRksny7mNXOCtJjHDzwg==",
+        "w_vn": "",
+        "index_dt": 66,
+        "character": 1
+      },
+      {
+        "w_english": "B5hi1bjsrw9wquL84921soEwcSjjF4UJ6sbNnjmb8TzfzzrzL6JPEzuRKdv2a5MalXLjvToiFCBJiWDCuBVEdQ==",
+        "w_vn": "",
+        "index_dt": 67,
+        "character": 1
+      },
+      {
+        "w_english": "kWkdqkn1VTtl3djNO1wIFy/N1CtAmKFqa8H6YauC7Ts=",
+        "w_vn": "",
+        "index_dt": 68,
+        "character": 1
+      },
+      {
+        "w_english": "z5xRXFxoHk5huixafhj7E/HudU7CCwaoNtHampP201ukr40xbYydzEhbkzmDphoX",
+        "w_vn": "",
+        "index_dt": 69,
+        "character": 1
+      },
+      {
+        "w_english": "R0xV7neST45hTmUIhrA8ENKniIpyrHt4tJOUpDl9CEMoUgRp206vcbCK3ZvQMnXtzx2UB1GcWJ/TpnV8CTb9/zvcWGLzNlXMhOvYU6v/F9o=",
+        "w_vn": "",
+        "index_dt": 70,
+        "character": 1
+      },
+      {
+        "w_english": "dcv7DyMoKjP9yihJqe6wNUO99Lw3krBuI5ce5ZL1t/71oVU5Wg7QmIu+ISh0Ve5pI8i+mZQspq6MF39QaL0mMw==",
+        "w_vn": "",
+        "index_dt": 71,
+        "character": 1
+      },
+      {
+        "w_english": "1JibEDggmWtQ2XVVPaJw59fvqqNIBmFFYKpS3QXiHpCcIxNnORhI/BQB4I4f8j3jJZcYC5d3WlOXJBboixI4TE1uo8OP+gLlu/h82+qinlY=",
+        "w_vn": "",
+        "index_dt": 72,
+        "character": 1
+      },
+      {
+        "w_english": "KtzLVOkVKbE7PblL2DAbGBvZY7jCEUySJP8Il/FMkHKVqOebUYF1MEzt0/Y+p+YuPKDbZLX9vl3/fgqFlp6bSw==",
+        "w_vn": "",
+        "index_dt": 73,
+        "character": 1
+      },
+      {
+        "w_english": "f8fo8BeR71KN32geZP9+b4yI0/u48ZwxIfgAlPaxh6qaob3TXzrsBHgQF2Cy/eHb+vnYfmBzatA+u2JMtdP3Hg==",
+        "w_vn": "",
+        "index_dt": 74,
+        "character": 1
+      },
+      {
+        "w_english": "2B+BUJFvVo6HuRX5K6krWrj1qY34042N1IpC32hMtjEwr5MRYtkLwFFHYsxa+EhewHaqzQCFQdd9gwHSVxQdS+p0tDVnPQzbKCua9isvo1c=",
+        "w_vn": "",
+        "index_dt": 75,
+        "character": 1
+      },
+      {
+        "w_english": "ZlLprSoGmrJKVqdNVpWGZruIrWSqu0+XZ56DGJSu3L/Y27EgmgG4Wnl+wxENNKp6CSbzMLk25FZjfcz1U58MgajXx/F0p2G010+iMbb2mKlNkDrqd8b8cGZw8miJRXi+",
+        "w_vn": "",
+        "index_dt": 76,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-268643816",
+    "list_detail": [
+      {
+        "w_english": "Q7RDXx4kHIaIeUUmDUEp/w==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "iSEjBm94Jix1REH97t9UCcEAKAPXNCMCBfa5QrmCn4c8CwboQIuDkVlGikHj05keWTEI8pUbcr6/f2yBXGVoi5MfH6/0amj2ykPI8/+5/OM=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "ouK/KaWNOU/PgqUARMoR/8d7ZLy+XOA526EeIhsBNso=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "JpG+Gg0sh8qIoEfcVuG2cIjDaqB4IeelnIwnWf8kZy+8T7y4N8tGgMbeFbE5tNo8",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "k7MKFfw9mo3AgEiLbmxkGUF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "8DdF79KZbt3zgYqRDT/lqQ==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "SqEdQrK8kGqnk4Rl19AplZEYwlluvBD8RjnbOBMcGP4=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "sdtmckByM5LW+vJvPvkmF+BqFB27ioY2p5ii3nKN76w=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "cCzFGMIdqYf7wkfuKml3tamuI0IpNo25vNdf1aCk0CCKnYtpFD5dzJcs4ZrvDMKb",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "L9PMopRwxhg7w4X7u3q2USKeBC5yVpOLBE+dgmRscso=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "szj2HIl5P5N1ZJLUA85kIICoXW7hI6PQAupUgbRYWPUbD/AOxo9ke6OmgtLxRNYj",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "b4lUk777qJ2ePmxYouZlVIsaOe9J8Y3DTUO50ZB6axZInOY854LCgpNtaf8a/hAtYDVntWBQ0Pn/u+6ICxNVaZ4lPjszHgxAVbFOQFgwEyQ=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "taYD6eFYxlZjSy9z5fCyffiCYwW2oAKZjZleBeOoYirUpsy8ZCtJW53Zlml7zJbc",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "yaGOyVLRHQV8jstavDPQtHALdDcXB3TdSqzdUziBunTkVRx7Iw3Cdbt0a8rgaDdF2L649LVIhnzAkU5TdenxxA==",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "hSvSH3Np2uUBOuLRutzRNMUC1GczgqZyiYl8A2D7oGWv9y1IYGoYN7Vo7ZJ4fNC4VT/pDyxf8VECVjA0JHDesg==",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "nZTXIjniM/xU97lLFQoLoFoOytToX+aEP0q/Cp8vuvY=",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "WDH/UQBh+uAq8zQK0asULCLC0mlJ8A/RdiCjgtvDoksHe1rSqJNmZqcHpd0wSryy",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "W9hxMiU3gNZ8bY60BS0xqzzFzXmdCfxotZ5eNKYuNtmyGFai+rh5fiQy4S3JTcnAImhI68TPNMR5MgoBKP3ygw/oYTBlYaMWv2X9jE/WZc4=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 1
+      },
+      {
+        "w_english": "rvEEKX2ovroOiwRiDvjkspx8Mc0Q/rimEEWHU3mHcyA=",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 2
+      },
+      {
+        "w_english": "nTBW1TgBDqBaysYiyV+wTDesplYxZKSRr2zOyGITdQ54WklWwaGh+wvNbXatv2t38F1RVO8rje04JcI+iGes1w==",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      },
+      {
+        "w_english": "uZscD5RZVg5FOlc10y5QfmAN8ocNEQ3q7gqaLhkM+9nOceuvM+BTTJTgiXyVGUGwgbcSkJ4pEh2AUOU1IJQAQ6C+USMvk5dcw6cels0/nKg=",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 2
+      },
+      {
+        "w_english": "YtJY2ccwB40Gv3TK/KA49O4tjJMXM/rlgI4vm+NTqCo=",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 2
+      },
+      {
+        "w_english": "u9t15by4NfD3s0/TCtDagyw17GE/xXDxYj6CJN09Ie8=",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 2
+      },
+      {
+        "w_english": "5i4ty+DBQswwIAs4Rs9xNZL1/sifGIa9WQFa/fOHeNY=",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 2
+      },
+      {
+        "w_english": "qW01kXE09ko1IX0Gqwt0AUBbvP8k8+5ncGpr+EexZhw=",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 1
+      },
+      {
+        "w_english": "MM1U6NwrvSw4ofpc1ZayiJiGSFTdshlb3KFEuTX1DY6VcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 2
+      },
+      {
+        "w_english": "//QoKrr7tyIHdgbb/XGQzrQDNwpI5lA0YMQ4IhvdKOt+P4LJ3cokSJHQ6Aw6ueIt",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 2
+      },
+      {
+        "w_english": "jJQZv5NW2ZEtK3cAXrZai/9FZ2PSniz8QExDSWY42QNiO3BO+fU0roozAnFJGF0ozyFBrYdUX2U+n9ggPDfHPiDjgwLtfU15FytVgemUjj0=",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 1
+      },
+      {
+        "w_english": "D886io26CFfnjHpGvrB6eX123oaEv6A1qyTPmjclzqg=",
+        "w_vn": "",
+        "index_dt": 30,
+        "character": 1
+      },
+      {
+        "w_english": "8u4zb1FqV7QxdDyyhmvhArObbW8XVJEQ4XXquxI9HA4VUvouA2xu1R2pY/jVFapWOgrkObkcRDkIR3lEJdvD7g==",
+        "w_vn": "",
+        "index_dt": 31,
+        "character": 1
+      },
+      {
+        "w_english": "t3WwfzMsQpd8NQaxDa/4x/4F7kZBfS2O5/bARSxXD8d5wONtB4OCT8QBwgFNYs4l5ofmTWybVPfoUkV0kqWnyR7PQG9B/nNrX8XNGWi9g78=",
+        "w_vn": "",
+        "index_dt": 32,
+        "character": 1
+      },
+      {
+        "w_english": "oUI3L450evSmBRio7pC0a+4SAewoPfY010ZVzHuUxsoGpilmyxZi0Dr/JVA3wsW/rlJ3Ok8tMp3KOhrYFZolXA==",
+        "w_vn": "",
+        "index_dt": 33,
+        "character": 1
+      },
+      {
+        "w_english": "N6jEt3JBY5ZNMqWFBrhfm3qgKS3UJz06psbrsGW/RqKNCY0s6kJUU1qlie9Hggkm",
+        "w_vn": "",
+        "index_dt": 34,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 35,
+        "character": 2
+      },
+      {
+        "w_english": "iiDRoqO5YhrYsrVQ33kTDnWlFrAQwcIRLKbfLsxg2HfGp7XlCWpdf/CTSk6QYgVx",
+        "w_vn": "",
+        "index_dt": 36,
+        "character": 1
+      },
+      {
+        "w_english": "z/4h8Y4Sp1BmjlVRpCGPwJC2nVVyTtvNeFkhkgRPemnLgyCwjsoVM0ggC/ZPtQxl4vaVMDCSSidO/xvtrUXlGQ==",
+        "w_vn": "",
+        "index_dt": 37,
+        "character": 1
+      },
+      {
+        "w_english": "m/9EyS+r7RLrR0freaGdagAioDOJ9ft+P2dSGbEpi59uGqD0NDmFY2VrKlFFAt6TCz7T51rxjmxlcZAHwXGI2UF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 38,
+        "character": 1
+      },
+      {
+        "w_english": "G934FBftseCi569EfxyVcTyyk9u3eTBjiYZqpsRG0DJoOxqgwa4FPmsnxPkoWVJn",
+        "w_vn": "",
+        "index_dt": 39,
+        "character": 2
+      },
+      {
+        "w_english": "N2p9uemX2uUk1yGCk6J2ZIZ5a9tkndqh2YgfcWtR8v3Ki1hbawGRpFZEx6zomVDq2L649LVIhnzAkU5TdenxxA==",
+        "w_vn": "",
+        "index_dt": 40,
+        "character": 2
+      },
+      {
+        "w_english": "Uto++M/nYhYDcOMvVqrxdohlWg1SFyIN+gOwBf55Ro0=",
+        "w_vn": "",
+        "index_dt": 41,
+        "character": 1
+      },
+      {
+        "w_english": "e4PZVT2/++9oUTLJrAF7Uo+uvQbu0+qi2ZKivlgtXSsZOWALqZODyjGtWEf5QI4JFKGCCRLaZ7fl9ZVsTh2YF84W8Pk8YgpVhU4AnumcQCo=",
+        "w_vn": "",
+        "index_dt": 42,
+        "character": 1
+      },
+      {
+        "w_english": "NVYS8nZVR9PnocOUla5AjWwInivrlx3C5i+ErLol4QpUYM4o/AiX0O3f2sCSzLMvmKUDmgjfn4RPoeXrmemmvW4vRf+xkGqOjfCYk9EdcrQ=",
+        "w_vn": "",
+        "index_dt": 43,
+        "character": 1
+      },
+      {
+        "w_english": "I00Jj2CjrZVVZh8mgaojE2P3NejxVUWBNQfThv7x05YgDGornbUc63bqy9NE2sYQ",
+        "w_vn": "",
+        "index_dt": 44,
+        "character": 1
+      },
+      {
+        "w_english": "arxA1nD3QaFLl6iP+oJmFQ==",
+        "w_vn": "",
+        "index_dt": 45,
+        "character": 2
+      },
+      {
+        "w_english": "YGrEKss8vR8EaDCxurE+Wz6BPcbhWhdTO4Du1Kzn5rk=",
+        "w_vn": "",
+        "index_dt": 46,
+        "character": 2
+      },
+      {
+        "w_english": "lFCQUo66maGhBN81FRRfCHhl46fTHHZVTt2ZhU01/4Sgs0H8rgtkZRBv3xrt8YGb",
+        "w_vn": "",
+        "index_dt": 47,
+        "character": 2
+      },
+      {
+        "w_english": "2aSkb5fTbV0zo7t1KtPsFHOLPnrpaRdnkjghdq4Fcoo=",
+        "w_vn": "",
+        "index_dt": 48,
+        "character": 1
+      },
+      {
+        "w_english": "q1+3RHyKxN0Uhz596cfcAmnfnzL5s5ifxIMB3y5kwKjn1gBGLFTbNLc6EJm3M0s0DQ0IExw3I830oksudq4G8qKs+MhQyd5Ggu6p4ipKRZ8A259ODoIofvBf+jp0UaEBQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 49,
+        "character": 1
+      },
+      {
+        "w_english": "UYsbZ//Pkxwzpf5LuRAt9Mb+l7wSub+q7KvWyWtwe6XS1cDS18jRFon+99IKZd/ya3jSIQq9Gm0TIvqPW/wVOQ==",
+        "w_vn": "",
+        "index_dt": 50,
+        "character": 1
+      },
+      {
+        "w_english": "zDz9Ey9ULmvtdAb/cEhgINYAGLlAiq5k8lK4Y5ldEyanUPL7FMKuA9oHEB7Cj/tp",
+        "w_vn": "",
+        "index_dt": 51,
+        "character": 1
+      },
+      {
+        "w_english": "6d4HR+t9XGswsN8nNQ3Uw9Z7myo0jtIp8wxewruE1buzTlxB38TuEEU5G0IT2N4E",
+        "w_vn": "",
+        "index_dt": 52,
+        "character": 1
+      },
+      {
+        "w_english": "Tu67PriG9cXJxYognCJnhtqnZxLppOUuZv8Y+hJyPuExUNW5ZvSqOMuKdMesEu3RZ46vz+Zvy5CwrLJuh2q1ZA==",
+        "w_vn": "",
+        "index_dt": 53,
+        "character": 2
+      },
+      {
+        "w_english": "p/YTD9wC/QGpecUPTuWA5u0236pJ1oSvG35MvgIItFdpPbya9WSFKhTw3V2GYdayodxnJnCRyvImY2fPpTQSj812Lk7bR59E/5ofxRDkusBOTFUrTaolk5xlwbe37IlPOIPuCwgOa4Rl6BWLc/lo1A==",
+        "w_vn": "",
+        "index_dt": 54,
+        "character": 1
+      },
+      {
+        "w_english": "sEE9ONgGvgcPjmH+Aktkk45RKXJA9pzFtZZiQwtv29rhj1YlGVwEEIG8AHoaQfkKMGLSPmpJd6hj7QjucSOWFA==",
+        "w_vn": "",
+        "index_dt": 55,
+        "character": 2
+      },
+      {
+        "w_english": "jDDe32npb1Z6wycmhjHA8SnrsRYK40FxdlqUgOioRv95Mt8vg5z5+UN70lj7dQCOpjk6uhYBTtYuZujo0gb+JkF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 56,
+        "character": 1
+      },
+      {
+        "w_english": "H/NmBWLdV9wzGFYlbcvPahKuS+viTWq+UoZEmiceZxBtGFr2RtTEyzCn+9v8CfTisK8bfdFYLXfDaY49OUzT4g==",
+        "w_vn": "",
+        "index_dt": 57,
+        "character": 1
+      },
+      {
+        "w_english": "OS0pjzbUWZJUZHyZ1nTqePjhsGT9crMR5ljiWXPwa6jfwP5kAFZVMh2zevNRWGsH",
+        "w_vn": "",
+        "index_dt": 58,
+        "character": 1
+      },
+      {
+        "w_english": "HULVLLbvL6oEi83a7aTOE6GT6XCCne+G9l7TD1PI1X0=",
+        "w_vn": "",
+        "index_dt": 59,
+        "character": 1
+      },
+      {
+        "w_english": "64DFADnYL+rzI2gqA+RrJCCDdGb3hVaKhzN5NTDFtXM=",
+        "w_vn": "",
+        "index_dt": 60,
+        "character": 1
+      },
+      {
+        "w_english": "jcgMpxhpNUmze+V++xARJ7ctGZ2pgH9LM1iUy+pBLu0=",
+        "w_vn": "",
+        "index_dt": 61,
+        "character": 2
+      },
+      {
+        "w_english": "7KdmO10GYGF3wPw1fBMvdhssYhPW5bZToOILg1c3M+U=",
+        "w_vn": "",
+        "index_dt": 62,
+        "character": 2
+      },
+      {
+        "w_english": "BN2WE0iK9pUU8QlhJSf7ZIqJ/V/QROphyGJT17frUF7Ps9soL0QzS0l5lrsGJYogyWZ8gyBbh7uXP0PNx9WN8Q==",
+        "w_vn": "",
+        "index_dt": 63,
+        "character": 2
+      },
+      {
+        "w_english": "OA86xW7eoPYfFiUge0KJBcw15ZN6paOzSudz+e2ej3+/5FoBoLR3jSHmQBypexx+e4ZocBRErFs2Vu3auE8EuKrUQbzH3s/CxkliAxDT1pU=",
+        "w_vn": "",
+        "index_dt": 64,
+        "character": 1
+      },
+      {
+        "w_english": "gVgbW0TgWsUOzxSpg+lcklGEbh9tCObpSFFflqhh+sWFxvjdjNpOsdII5pP2hY1C",
+        "w_vn": "",
+        "index_dt": 65,
+        "character": 1
+      },
+      {
+        "w_english": "JadZDyuHvcEPoQhp5EpEhK28OM3BPm/4ye7k84fV03v39WFJPjwWPJCzPZdOtX0HOhnx9/nwwRy09W7A13IScQ==",
+        "w_vn": "",
+        "index_dt": 66,
+        "character": 2
+      },
+      {
+        "w_english": "nn5+M7Y8ynyA/CmTrOoxcuYx12aYi9pZpL6W5QL0U/wuN+yJyaQLwCDy+corgIcm5jujuVHtNOlXeP0mlc+Bfg==",
+        "w_vn": "",
+        "index_dt": 67,
+        "character": 2
+      },
+      {
+        "w_english": "LTsQ9pnOxq6yWPI8ao6WKg==",
+        "w_vn": "",
+        "index_dt": 68,
+        "character": 1
+      },
+      {
+        "w_english": "FAxLC7eflKQhUSpeZAtW4WHcXumJ1rkop9PqedexELKYaV+JmT0AsIOED8koKolTV9iluZ9aoYcD5NLcUHj/Tw==",
+        "w_vn": "",
+        "index_dt": 69,
+        "character": 1
+      },
+      {
+        "w_english": "PWMb4ZZ2QXqM1Fvi8ct6/kSUjjc2QYGSL1PIsY0ShB5BqQtE50nwp2g1u5YPGvrng8BJPkc0y0tZgulsSab1Pm3555sAACx692Irc/2i0QiXJr6wXVSfou/UL/UPRcT7",
+        "w_vn": "",
+        "index_dt": 70,
+        "character": 1
+      },
+      {
+        "w_english": "yqgCGt+FX0IvZPhQF4+Xez0k5Iq9wCP7/3wB7HsJdRp3DS9gA1453sbliSpBdMCiK69o60Itj7IouTSvefBOOw==",
+        "w_vn": "",
+        "index_dt": 71,
+        "character": 2
+      },
+      {
+        "w_english": "tw3rUgbN0AjvQEplOgLuHWx3VGgPPOaUgKi1KXnW0L9my5MccCyhydtpjHMcQCZzxKHSBOddzrotHDF0cpcV9rZwvN6QFD8+w5dvLHMKFwE=",
+        "w_vn": "",
+        "index_dt": 72,
+        "character": 2
+      },
+      {
+        "w_english": "ySy6B52IDGD2CzmV2L8ZSAF6O7OpxWCk7LQgSAHhZjI=",
+        "w_vn": "",
+        "index_dt": 73,
+        "character": 1
+      },
+      {
+        "w_english": "2PBAlVhiLBbasc2JhJpNcdKulYEcBjZdI/ZhLeDGz7b5iYwAwmJ3sCFSS52ko/MHufeRAOG0HGa+fJa2wPN3/K/ANbk5/S2CzvDuFBvamDo=",
+        "w_vn": "",
+        "index_dt": 74,
+        "character": 1
+      },
+      {
+        "w_english": "qxt60TYbc0XWf2UYRuV7KElLaUFjTfPlZXEQ1ajlpK5yBI8315gO5Uv9w7Q1TRD0",
+        "w_vn": "",
+        "index_dt": 75,
+        "character": 2
+      },
+      {
+        "w_english": "HXvHjiFLmm6HlKwpBhIWZ3Dvqog5XlTfiEPbSm6ViDA=",
+        "w_vn": "",
+        "index_dt": 76,
+        "character": 1
+      },
+      {
+        "w_english": "X5Yvylv98mIbRmqkjnCiCM40gu5o85JhKT43WiTj0Ko=",
+        "w_vn": "",
+        "index_dt": 77,
+        "character": 1
+      },
+      {
+        "w_english": "0wbtVFIsstmLmsNsgiMGE38z3k+ZbAZXicjF+Ci5TFI=",
+        "w_vn": "",
+        "index_dt": 78,
+        "character": 1
+      },
+      {
+        "w_english": "QMkV7DsaI+IPsR0COXNy4Et/PdLhtBwkXS+epFcuPdA=",
+        "w_vn": "",
+        "index_dt": 79,
+        "character": 1
+      },
+      {
+        "w_english": "4/BOs4wBFhxwd8Fll4xG8r2WvvPnJpFp/XGZR7D25XE=",
+        "w_vn": "",
+        "index_dt": 80,
+        "character": 2
+      },
+      {
+        "w_english": "BhwRde0Zd3d6eExqlmmDZOnaoc3N9AgsMyzrJswK0a8=",
+        "w_vn": "",
+        "index_dt": 81,
+        "character": 2
+      },
+      {
+        "w_english": "CrPS3g10YLUkatXMo+d8hmKyGqTyxlC5wOfL+iIrqTI=",
+        "w_vn": "",
+        "index_dt": 82,
+        "character": 1
+      },
+      {
+        "w_english": "e4HilGV0+t1y8C+cMH7j61oAF365PqVtK/cJb7wsD9xtiQXQflJHCw9PUS6uekzA",
+        "w_vn": "",
+        "index_dt": 83,
+        "character": 2
+      },
+      {
+        "w_english": "ekoUrVVQkkz9f5DBajUu3g==",
+        "w_vn": "",
+        "index_dt": 84,
+        "character": 1
+      },
+      {
+        "w_english": "SboKxC3UHlO0E59vLGPHyQ==",
+        "w_vn": "",
+        "index_dt": 85,
+        "character": 1
+      },
+      {
+        "w_english": "SJkc8WJpqZvmN+pBjLCFZg==",
+        "w_vn": "",
+        "index_dt": 86,
+        "character": 1
+      },
+      {
+        "w_english": "rLR5hvMvL+xOZcDfjFW/o1khJQkL8PwGiFG1iTedmVq0GhPIxuRCDcvFxpObXQS9",
+        "w_vn": "",
+        "index_dt": 87,
+        "character": 2
+      },
+      {
+        "w_english": "rrDMkwGItXUhfy61qJWfDw==",
+        "w_vn": "",
+        "index_dt": 88,
+        "character": 1
+      },
+      {
+        "w_english": "Asbzp323kNx4YhBZtNRw65FSIuhuRAI5ZFo7iIolngc=",
+        "w_vn": "",
+        "index_dt": 89,
+        "character": 1
+      },
+      {
+        "w_english": "mFXFpTPp2M95fIaN3DaXsw==",
+        "w_vn": "",
+        "index_dt": 90,
+        "character": 1
+      },
+      {
+        "w_english": "wm65ykIws1en6I0vfitzJw==",
+        "w_vn": "",
+        "index_dt": 91,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "910986412",
+    "list_detail": [
+      {
+        "w_english": "cdw1f4ORt7R7GGNXQEHTJw==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "RedvJHfucsRrztGK5Lxl0xUOR+f+ItruztmUp6A3pLA=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "8h78zLS6MIhpqwXmSkK1XaJD70AzhaczQZWPc1COSu4=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "ylTinpOrfcsyDiWl20mpGrFKfCDp6Zv7Baz3NuNeod4=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "VJ9sAY8/Vh4EjhWra0Toy9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "A6OU+kCWUbT6/PciqyJA3qmeBQfsPN8sBYCGozSMgYM=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "O16DYpym8OPFPuaIX/HYt9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "w8VDxiJADJot/9a6phNtPQ87YC7UZABj+b3FEFJaxA6VcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "nOnIoSfJ+dIgcTgef53lbv1Bc9nNZkP0Fw2Cn2hyppc=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "qUZ2rVh0f+MBPdxwjFE2weaByHmEd29pPs97Kqxqumg=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "910986412",
+    "list_detail": [
+      {
+        "w_english": "pFWaUxvwgKVehuENXgfd5w==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "f+ubGxk+SooxSgSzA+d8w6UlbCOhKnk2xc+zco74NPE=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "+0sXg10i1VNx2HjYAPQEgzZZUUaE4RADp+nSiGnRCH8=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "4pXT9U+Ah3UtZM1CKvRTRXpP8l01fg5g0J0OibF2FxU=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "RHvIafOthTX3CQ6GLOEhqJMvA4K+HVoKpnnPT31L3Z4=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "RGyn8/57q5d+TIjNaJ6Anmg0MMfWPCpVRjJljV7D0us=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "0rCCbYslFyqPDF5L3ThW1l7dW5Y0Z10i89W7njqRrOQ=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "gOHRwTWUwO+rvDTQi3t9Hsqirf0IabYJQltE3PSEimk=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "Yx4mX5zyIVMU3GWAq8yEsNi+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "IhJswCuYFQY0fa7CYdeO7U7cmq2KwSI7EG3StsIrSbE=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "8h78zLS6MIhpqwXmSkK1XaJD70AzhaczQZWPc1COSu4=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "JGamHCy9vuQBpvBk7ADLYZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-816152857",
+    "list_detail": [
+      {
+        "w_english": "6z0HDz/umd3NVN0nSYjhIQ==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "/fCdBqR1CyRR6eE2nhQGWUF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "evJeq9huaSbiztLJU0TJ8ZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "pzGkG/gLQQqsINSCNxtR0fP2MCElM6F2YamKERv1Txk=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "HL8Zjelas1DkdH1HoVgiMnNssun4qrhkDLg3FXLZGj2VcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "M3QuNTe/HUWXauTDCsGrXkF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "z2CL50WaiVVbRobU1aN4su83FafmZ6WMBIp53GHUB8jYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "Du/28IgjYbimVx+WZv5BzP2al6GJFcxg/egY3Jr7iWeOVtWZzogJaQwsHowJijEE",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1965687765",
+    "list_detail": [
+      {
+        "w_english": "BrIPMJFV6b0+fdXjtPuuPpDzAebWTANC1qZ+D6Y2B+E=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "l+i5EmJhu2wEm5moJvkTueUgv1wDgfmrdMJTM3ubL0cx1XwMlcCXSnkQda7YcPCY",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "2hnEoqKw+DRG0JoKSj1cTrEy2CwKpxJ242V0HUyYpiU=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "SnCRUVf6/35DSzWoCwOyuo4+S8KmMwgrgUih35JVILDsPmt7h57EKHPrAAxhA75x",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "TeZ3kCMfhz4OMvNpdREJ6tLzMqo8ZVIPPzsbf/HlBDg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "6hTrJQMo0XoFUfKGTFE6wu0JjtY8YCC9aV8JWFbZx9c=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "/xc1oLWIwCAYfU2n5ET7cblygfRZ4Q28+xR+hVtAco0=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "48q11114pSKxSTB1p8ohU7vMtoNWz5Fb69ks4pvXRts7XZSdUYxBtGqrRUvznTg7",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "pN57+U9OhZv/kAr2tJXChU/PJAK9V+Y43OvXHCjI6zI=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "1JpCYTFa9pO9K+QuiMRr0gO6VVUH38LTsajC+5KWdkw=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1965687765",
+    "list_detail": [
+      {
+        "w_english": "rwK7o5zohupzwUV0Td977w==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "KAYM9FMKsuv80HUOYOC1WKCo7kD/wgFF4S8fVcnGNjSHNoQQ9p+1VDN6PaXs0fgB",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "ccUufaUuwyZw4mlLkUIatFXNywK7iQq/NhqkmDQHvaw=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "BwNjOqgRi7sUDfZ4aTIjohA8lg5j8e+ironcEISC+qwYYB9suB3nx1sQFUcLq6PG",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "gkCpOPdMz/gxyRI5kQuoWDBQsJJ90xv/0WmyU0/zKdNQqoQrUYXFqAtRNDSuHU5v",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "h7FhDIEamT/dTN9gGm74WEF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "fTlWHIhNE7ILiMzshxS7PJVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "65290051",
+    "list_detail": [
+      {
+        "w_english": "cjzv2Ox63YDbj+6p7bP7dw==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "gVvL3/E51OmsfPKK7951TQ==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "ArfxqoWG/KoVhSKIpqFeUFvdMwLItKC1nTp6nTAVico=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "lIrmd6TZCU/v93fJX9d3ihUIaC5i9b5sHY6Fu+/qEd4=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "FhIdnTBDoqODsRFeOkI8BQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "CHzaStWUqtEn+8pV8X7rLpJyXGeLd5YOtYQxLINxvazXGZNdBSOGSsM+K8/+Ywg7",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "IzNQGyLsdi726T9EglU9DJHfhjBoMDNqv3BXZOXsbEI=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "UOJYqGROLIE/w2/I+14bpmF7lLYZPD9mEQ6cDbRpZi4=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "aMudss0iOc+qIr/z0dPJ0A==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "uRsvO9bMbDT3vSJjmeqGMd4Q7gr2bYeK2QQ2zv+yxAt6mUKWb5PFY7hnmyBUhPqqQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "65290051",
+    "list_detail": [
+      {
+        "w_english": "rwK7o5zohupzwUV0Td977w==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "PiO5R4A1Q7GMO2AzFGe8D9ZGyMTLeXDYyzM9TZKu4jU=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "bB12dx9ibTNUBwY/WxCQKQ==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "+ulVDV4xIhzE1csKg96w9Q==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "/Ub9Qbi0++5tLqirhrN/tg==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "Kz6E6J1Au3Ug1yQvS0jCGQ0LTwHKE2vxZvCJZht4788VUSYLXxO+Anhz3xBBvKv6JCt+v8FtvbMKzRkkm8FjtQ==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "2108647854",
+    "list_detail": [
+      {
+        "w_english": "un4lZeOsfvW2PjQK7llkFJVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "8PguYG9X3BUg+IzIz9neow==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "c+RiyZSLnuXJ48le9ZUHqA==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "RpoAnlbRCb9lvbXmaHMW7zDhFF1aHgJLxIhC841Vkjc=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "Rb224s1SHw89Ub6ii58cvQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "bB12dx9ibTNUBwY/WxCQKQ==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "Gdz05Vj2GbpplFzpnTPKEQ==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "0BJtgLaW3Zjj0ibW3//AmATvunqBa//FkhBw8JFqW0iwpjfKqQFkDR7sJ/zXt1syQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "nouz3JMM3485eVTJ4m0xTFis1HTWCKsaTeBdWk4lIgU=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "xBXfjKhaSjw4gWZnQ2W6ZkF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "DKE1h0T2vwl3fFdaE+D75A==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "RpoAnlbRCb9lvbXmaHMW7+kvtncr5WAr+iCYltoaAwHYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "ZvYX88qGSQyB5NXDEmi0jw==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "xBXfjKhaSjw4gWZnQ2W6ZkF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "eHO5blr+MIfv+oJYhfG06g==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "298950690",
+    "list_detail": [
+      {
+        "w_english": "VETHisqhrXY+UVuxeLGIXA7sma5yJ68B4LSpJKtCRwM=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Q1aG1Jgro7rHY7jgZ1XlSA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "KcRWwN8uxV1SUTYQQiHpFQfCQNESPoA0wsynH2wIwEE=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "5RCxJwjmmGwxc/cjDI99LA==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "xZRGw7c81YZPk3EUFTF2Jr6w1D/aOfkLnPMxlfsAY729hc48/6yna5W+GNGCmlF0",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "Gdz05Vj2GbpplFzpnTPKEQ==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "jr4zgGUHaz6rmM6+PSOjW0XGmKMTon5Kp2h2lz0DRnQoiOor6OTO16VPdkfI2L2c",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "Zv6eOq3gL7T1c2x/YgJF03n7C6/sTTwF7eAbQ1Qnkm4=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "8+FRDQcRcBlwFw92XsCUd5rDsQxVfeHMYSq4tRutSXo=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "oMpIoWVlezdOLa1UAhNaJA==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1017194182",
+    "list_detail": [
+      {
+        "w_english": "nrRJ4ljmSOF5Kn30qC/LnQ==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "dzEpTZFcs+zuPg4z+d/rGQ==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "rF2GLQKPYMQLJBXGdlDb51GMT17ZdswsVNFkqAFvsEkbYxQEcACdBvPNUsYgrVSpJo86BarvDqh5WwIcWQan+Q==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "RPzzoAsb/5iE5gGzBmGzUSTQGyskqkHseK7BdgHnnttIx9QTpEebZq5f5lKFH68z",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "dAp9LWcGYDxR4ozkhNer3g==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "HsC0Tb26JDJ2IoowNv/dZZiw1Lqce+4/ICfrWmRFzP0=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "OqVhW4msSL+ZJ61DEUpiRQ==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "UJR22N8bJ1NYR/+egy8nLDQPwdKwPc2SNgsnyuciAZxBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "yNrK7ajEy4viO6TJbGsTuQ==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "Lc78GMy32UyYIn5bfNl795SLBQio/yCdLRYMpbYWyKI=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "zfIQWQbZGaEGHMLg5x1WuQ==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "toaG+3z/uiJ314agNPIvDUV84ubgyCahi1SHBkkH084=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "MWRxiCjbRkAUvSclSwR+Ew==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "brPvhSoBzvA97H2rtoX6xOBJDM6aEPed8c2KBMk6p6A=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1732087150",
+    "list_detail": [
+      {
+        "w_english": "76Q+cLCuKABKQFCpGU86PpEZQ5L/SjTlj9Gv6duzsUWVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "DftW9fg8t+KdGyXP1xozUL8uSZfX3+hMnso6ttYBXFtBobVaEx6wb9YTgWGFLRuR",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "OlxdtGAxU/32h3rPPiNOfCdPVCdfqScMxfLAt8Gx4XY=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "GWn9ubQCsRis2gIt51O+vg==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "VRQ9CRsYQkFJZ6c/7WDs/ZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "tf2DV4D7lL3eFtOxe7PoaS5pQkLCPsHXtFiZOjSugD51T8TaDqTF0oI9e+uQV8AX",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "nl7UYivIii8xI1uRftP3UpWDxhtOdKEFcnn7Hy3uvtg=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "UNdkDM9FIphJo+uZT5CynA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "BE7HBA8uwyHeD5xOlKOXOKGghLkzcjG12zht9c4Z18o=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "wruGRspK4ThzQz5J4zTvXsVa5RGMeDMU5yeFCXdMU38=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "Ck57OwJjWnuHlAWLk6E72uWWpSPAUaqSpL+n7SPLf+YF4I/MT1+AL+c7bkB/rCdd2L649LVIhnzAkU5TdenxxA==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "vM1D7Al2GIWLMOtuJYEFYTH8wU0uxqfJ5om5tIZMgI8=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "uVo6vacsi5lNQVWfj24JXhSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1325685770",
+    "list_detail": [
+      {
+        "w_english": "BbmqShgOG0sln+sStM5l8KOngds1oSKbusHXs8OUEVwfY3JBlXV5m0ID2TZva7TN",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "XlPdH9OOygbTwhd0GMqUZV3cTZB63g5P7bSmK4FBaM3+6AAR4YRCgSPnaR5MeU5r",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "K509hNqV7KYkpdjO0l6z7eaByHmEd29pPs97Kqxqumg=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "IRZ8qiIT0LJ7UViIN+Zp/g==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "nTkhH9itIAXK214pR3PJsuiDAn6zraKW/WUbkL/Moeg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "WDZLiqwvfuiQnYY1dKL/rt31GZMtuqjP87PWMBs3ifI=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "NYlGETtCOvOTR1S29bNbh2A4yZIWW8yyoGM27sOLpvkUiYVXo3nzLCvXGDoKerEY",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "xwGFwK5RjVag/T7ahNFcCbgoRUVIEsWbNpp22AMHT4pOoPJd3leLKyScxglSChS8",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "4lSrM79uGRMm6d8heNrTdDNZuzYP+IuqG+tJX5yMXvY=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1239764166",
+    "list_detail": [
+      {
+        "w_english": "9/oO2XICOVpCpiNV3Sqykg==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "fKyrKs2sF5xpQrXEvnxfUQ==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "/uJ9xYJYj27UPhxC1jY7ZQ==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "CZ2sG8ozYddgwBrjheOCn9YEswqIz1SLRowNIk5odlo=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "6LnzQNicIf7NWeh6WDQijcZHtJ+jBhlrRaOzfd8VdcMZoAC4QbbAg3x8U/Y2RDnl",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "RuwfbaGO0mu4jmSygs0OVrIZuiVgKTSH87j9Kmqpy9g=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "obddTgDyt+CzI8IeIwpMFFg9ATVSpECgRNABKVTe138=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "EKHwJePKxAZqqe+4kj9QcStMRw4WyFnRiOrcHZgkyPGk1SLq+5oU87YHWycJbaUw",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "so83VgMSet4Y3uFjtEBz4MjJQ+79/7y6XVP9OMw8+jc=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "wclXFgyn0ok5ns9KxDyYfw==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "ZmqzRMrWFzYdzRu4XMCpJlY66+AKYPD+F/6gJUGdhjI=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "9mKicPjtUgBACA6gX6bwaLeHYP3NXOIRCbnBEt5aYmw=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-924539231",
+    "list_detail": [
+      {
+        "w_english": "4RpZZsVd4+/kG77PKvhILQM6HW4QrERPDiMCdHNQgc0=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "m30asFH5wMXZlFt7fFko7w==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "/Nm6EM+o1UPW6SGKEQw4JbbheXbL52fOdIyU62PkYDw=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "Kqn0lHVSyQtgwluvectbDPIfyzmiz6wdjaGC4GFgY48=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "ZTXj7vcm1zbIWShzyOuCJTrK+ZXR1+Q+Qwu2A5tIPSr4X2mw2oup9n1nNWkR0+kx",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "qgdk9qB+MPofnlRJqBKdLA1pTNY6U9qujJdRcWdOQ6w=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "kkfGgScdMbRg/BJkPCOJMzZr9yonvFdZmR/mcC18ieUUiYVXo3nzLCvXGDoKerEY",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "giSUojwhQ9F4EGXmqhMkT9uw64mhMNz8nCMfZsxaoOI=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "BKb7Lpxr3GNekv6/UbytQw==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "8NCRRTch7j9S6K9wFAWYgw==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "rzgHomxOH88XuT9kkxUNww==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "A2fYQ7KDVmmMADx4wk9gzg==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "hU8g1JHKn/NoWBGmFuLmm5nJ3933OEm+tTmAoOjGA0k=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "bT8XKlOQOxd53KSZ6wqjng==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "msyi83zwxpvCLGbyV2AKNQ==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "834125241",
+    "list_detail": [
+      {
+        "w_english": "6rQF1HdBCFAk3W7osKqGcDJEgIdBIth9lc8GpiKi5gY=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "+LhIH9BcU9SW4lFmFSQH2A==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "DvEFMrzu7b28pmoVpR/ml6Wm6zej3UMyBkFAehNvkck=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "ZxgWzF7YQu0XuGzrKSXw4f8ql03ipQhPFBYFe6Si0nA=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "oKtnBK7Xubt8BTzkA/rAqBARXn+PUKmYEUi+lWKtD50=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "fBYR1v41CLMJdudyX2vzREANTiTNiGWNk9i95idqscU=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "XIbzjcdkw5NMllUi24QTAQ==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "T5IdSaA2q13RAZRWfiQYIw==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "OHZ7BXJ/+pv9QNGQ8uB05XpYVcZYCxI4CNI8IPOCR6Y=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "SjeGdyqm93kZ5G2cooMk9rxPvLg3y0aAxt4VsTm02jw=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "tgsgiVgCSzSVMrP6o/J7IA==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "lbCQoB5uTvgd9+og1U2o4rImMV6Cf8tcow4pyYuUBuw=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "xw9gS2+oZ2KMpl/uC/k8hO+gYVyi1fZZdYtT7QoDGx4=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "3HSF3TEJknqrTaRJuWV5bQ==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "939pB8Xxj7jVV/HYfasUTw==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 1
+      },
+      {
+        "w_english": "X4XaOtn0sxluah0ivVG6zSTtLjlQBLLSovoMfSG0mpk=",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "52067305",
+    "list_detail": [
+      {
+        "w_english": "FGWCTFFkRLkuz1KHXac+xg==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "FGWCTFFkRLkuz1KHXac+xg==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "b8gjWbhU3Q1doaSMHFwsxabt4rUIK7gXZjPSiYbd9Ng=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "T360R+mGvvc/ie+r45jCO0//CtjSlIzwisKb+oGLiq4=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "LWNr9yZszK/8QR608eY6oEF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "1HXJRohYm8uqgyFOtGVESEF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "ulSb3xCb4w9fNouGWrcdwoqdi2kUPl3Mlyzhmu8Mwps=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "/Xdk5x42OTIa4XtyLYqGbOYORkS9uLj0RdKBdmQjrN0=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "HKPyKGNm7U/AoQEE70VelA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "PrqYFFJm0LvqyjOUypaEmYsTq4IKRI+XCqvjCGOYCLQ=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "6efGOIvkAwmWwvRBWC1Rqn+el3TWUSlxNLKwzsqX0YE=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "DEwAUKRHhAMv9B5eXCo3Gw==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1924394357",
+    "list_detail": [
+      {
+        "w_english": "QqnsBVT0TZ7EzPH7FCd9+1bkjJ9euHPss2JwPZWjiNiVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "NRTWRkp4C14oXVA+cDRrQA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "w4v/OwISR/8XrHJEWWi5p7c6Men/0erjFzlgo8VtnOw=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "4rhqe1JiF3CPwf9ehgup6A==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "M5CxFq0MvqZKWBlAGlQ6NJejTGGmOvIkjmykMBA1L4k=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "5T37kiQ2rc+fOYw+KS4PKmbiKiErrIh31jxIlwZrzA0=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "oK/CojaYkfzZP6h/UePqgUb99z7PoU5KOULn5fKXBEk=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "CUrUlWpY2rY8ZOHQ6mr40A==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "f/H76TGKTMCToy7jBllU1Q==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "S1MPFk7or5uDgeb8VlffytCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "YLk09xJcUFL9+oUHkl5nKlrH4/1q7DgPSMNWZw26l20=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "VnRPkFCUh5T1uiKbZGWKdpVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1176674346",
+    "list_detail": [
+      {
+        "w_english": "R8ogQVTErP3Gdf1hmDLLmnR951YDNLvgqpFjabhgnN0=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "3J2BsOqgShdzif62Q2jPAAkJY9/o9vDO4e6oMfJaCmfXQp7E+7ICVvvdySvKcsoL",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "2rWgXteF83WcbavYjRQSthy0DntD1oulIrckS07ej84=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "M4LUuaGZRI8eW6mGRfa7ONF7RKhntXufDykqfTLTCiU=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "bT8XKlOQOxd53KSZ6wqjng==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "IioOvdYtYE1ITudIWxkV4A==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "PYLZxSUICnwh99xCu6Z7/v9UKCAceLAgyHJYXmntkqc=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "M5ZpjcOV7nXYDiKawqtfD7GsIkK5TG08T5Lty6IXeGSHEcFrBQfIEOlbr3BCPIEw",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "3R2E2DMxMgvF5Miz3xLBqvI+1Eq2dyEhGpbbsJcWP80=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "W22uwUgmKrmsHOJOFpp3wuLut80m8dUwSMvayfRSrDlPJh9BD6CCJGV6W+tRdL+AaT/LZyKveEamAngOUMkYNQ==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "FhlJe8SjUcELwU/ZnlD95S/+IvD3g2hQP86Flz1qU1g=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1984583191",
+    "list_detail": [
+      {
+        "w_english": "neL5R6eo3W0ejUO8cZl1tA==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "BgsrneJS4IMs+ZlyVTj1mw==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "TToCLr1d+jbvHW33MiYgEhXSdhF05kOURtQpLHWJPERdfuCmuM1+GsVZRNPaihkI",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "bZ9WyhghZnS5Bbdlo5+bwqsyajie3jxZaNaQV3Y8h9w=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "wSMXc8V8+zjM2a1AaJizluMDDgtMZy/9nf73Geb+aQeXTQNvymrC8o9rIYtgh8HO",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "X5OsY4leopLyNZH49ZBsTg==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "WZrSIzwvHhSGY77wpcuqHh/CgKrEaoWV4HbcuPowlrnhVwhwX2z9WBMBKKs9u8ws",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "HlX669HJOzKB3Dw7zqb3TMAJgDCFZT9MRPAyhzoSRVQJbbzr8KJBBr+bIEGuGkk3",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "vKGxhZ4OPWL8+hJmpTSt1nCvFlcpUKwiyyaIQofayAw=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "4+x60VaYVmVwTnKscMz6bfVlzM9fo28FJmcAMNUJlwI=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "3NUib9NmWGFhVPZADDzDZD1PUsWzasWi5l1B3OpZLEY=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "678obZzVVxX86/GPJnGYNPiq4jqbL7/FPi545miMkxs9GrK/8hXGqyy+D0dhudwQ",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1984583191",
+    "list_detail": [
+      {
+        "w_english": "mptF7VMmE4FCUXXK3AmrPu98H2kCMSBe2v3ni6dTW0zXPtQiwbWJJkwV0kj39lId",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "mozbQUjyfODlbkuK+eK5vz/FR4CPPIYDiWasO2aaSqDRe0SoZ7V7nw8pKn0y0wol",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "BeCx+k2P4EyihhRQY2gnyiQCUGCytareN0ywzhKeji8=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "G8Q7+lRb3b6Ih3CYxhcbOVn+8+2ik61kVH8yWqqK3Yo9GrK/8hXGqyy+D0dhudwQ",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "+/viVehLqDMJylj87C5IaPjEqXOYkl/D+fuR9DezkZI=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "J2GJ769eNJ+92N6E4hsp8F1+4Ka4zX4axVlE09qKGQg=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "v56NX2e5jkBcuuZ3IdDDyfJpbay3lauK7xkAhSS6n5XpTWNjYrOQPfd1K58z8YfVQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "L2uT9jhN6C+4ET4+Jq4H49oyDy5Z7+6ckWdhxfgdIqWnRFKkPpfFMyktJEIp7sNv",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "Lc78GMy32UyYIn5bfNl7952YQ660BKgGpSsd2e9AR2hwbZ6yAggJs2Jd9xJ+0pRP",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "uRIJGUs603cur1PJsqOLGKzwbI2seYJ/W/kWr0fx8qw=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "/OmCicQNEYxYkGezCErq/xQ3nwNAvbSaC/sSugE2QgY=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "i04vfUczKi+Xte+ofFN+tsLPD8qkaPxqS+CL5d3IMAoH6MBRrA8TfA4dG47Jv3hX",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1930598748",
+    "list_detail": [
+      {
+        "w_english": "S/wtVzoClpJtdd73vg0bBwZh4qvYes64d3UnlsWpk+aVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "kThbJZcNE+nXunvHCiQzkywzCR8TbvtgC8C85Ue/y7E=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "PAKmwnBUGgLuYFJ1AtUkyncnJShysycLT+X3/nxxem+TlRD+dAN2hZ6vLuXuft7T",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "t/OoZNxEiBDZxZs0CPAq2OOQY/fvKpSMcgBhpqDLz6k=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "Ma6x3kyIi2Y1+xLDNH7e+RdrfTZHyyputiPjnlNO4iIt2jb65DoqZfHacEeObYzz",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "aAVsv3UdJ9of2HpiFG+CZYueGyLUJ4pJqwCaDZHEN298l7uhTZuaOjhU4adHm+tr",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "1V8R4tqx9h9okNBbMPOLRouOQaoPTTrAq62xEQXbfpO0FCZx51VmJjiw9AIG87E8QXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1966562459",
+    "list_detail": [
+      {
+        "w_english": "5pEhGxc0gXH5q7Sgr0eu0KvNwoAymZW8uPVn50uLl7PRgwICKetJ3OwEL3xeWHk9",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "pru7q0b4qbiHg317XhIOdfrHkQgaepTwq4GozYEKR0A=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "XMsavaxNnVoAYav4YMMpzV+EisFCI6V5gUJrYdjXfbZlj8axxtMSWmSlr/n3j3xW",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "IioOvdYtYE1ITudIWxkV4A==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "mJAS560DPPpirpyT1Z6to470IN7iHFW+VkbOYzIctdg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "5ifyvLj21yIOEpp0sYgigA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "WbUSJ8DsgZb3F13RUIe++1wcCPaTDWa2yJ1j3RE93PiVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "Ll1U6OOfrKiwf9RCiv96Tq5QaPbxa1O4EUZvZsgY5ZQA+kJXPfumz5PqvI3t/f0O",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "B5y9C7KLwMTVoECKjOAzc6I1KtMb93WyklA/dWwK7QI=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "IioOvdYtYE1ITudIWxkV4A==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "uOjGqdteCL4Cujv9LvIZahkW6G7YhqN2O8ihEpw9EnyE5+KzedKcPnYFfdX+8FXzp6G1VHCO/Elo68XjEbhxTg==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "hNKaYN7bWpo7uJDOuKeuZrm7qXr37V/gwayH08aoAkKPkbUg62bTg17x1GcbHHJPMpAsTMtVso98q+OzPSUPFw==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "1892570189",
+    "list_detail": [
+      {
+        "w_english": "Q1vFQQvG3Ttib9+SxpjUKRrtiwNR6BsNWZPPlhNwygw=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "2zaV+pNrJFaMX36xbPawpuaB6p8tQl0DUcC2/QKTJhtBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "lecu4Zo0keFWInFQjpiC1BDAPLcQzjOEFS6xGFJ6D5/uwnRSQSgMZZPSU25BotoI",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "MKsPkcH7BNa9oZmyQ9cLag==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "Ob4FVa0sofUBL0XnA8M2pyuvaOtCLY+yKLk0r3nwTjs=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "CPZvmKbSyMbFIWd40jpXNw==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "yhZGbWivcHQHGtANdn7oma94zSTFuSY/w6nju9/hv+ni7AijN1JIpvYuLZBCJyOQ",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "pzXAigOqwDTGgL7K9RP+KpxcpA39sBHi+6Knma0FwCA=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "T11kdlRps/fe5fXIut3Xcw==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "ijeiltcLcOD1qktsjC57v3lPJc8aooSOSSeF+OFGyuODtR73vUxp2tctaWbRmkqcVhXgFDOqaKqBhusCiE9zTA==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "ou4BxgR1EJZzGuGGnb3dKqE8zj6408xjYnNQ5OEsB+al77clf1fzLbRApEes5fnx",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "J3Cd7AWDXG8qcqiDMrWXMRsDvuk9njY7rGVjwKM7y8qcXKQN/bAR4vuip5mtBcAg",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "lD9wpr11/GywFCP6JhCm9xSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "oCpuCZS25g4VSB/EMyEDKUsByksD/M1cUTZZkynzgkA=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "DZG59trvK6kxTncRJwR6BNjQL/6Fymp4A7TKRj6XhOJIi6ULw+VPmcMJElj+Adk02L649LVIhnzAkU5TdenxxA==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 1
+      },
+      {
+        "w_english": "+nxsLNbvFgFkQkYnvZv31Xd+8F2JvIrzZd3MIUQ1kgjQieHGmueCv6WXsL8TMr8B",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "UQzihtxLb/BKM0FB9ybDyFcxZFzxqmi11flgvxbalWU=",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 2
+      },
+      {
+        "w_english": "J3Cd7AWDXG8qcqiDMrWXMYQjP/hF58GV798gHgEQDF36Uz5ylYrphQDLF2e4dlta",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "gvhEfiS/zv71lMoOM9HFqamDmh1Qu+oZQantx3CCNfg=",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "e7aDFWtmIUjBkSKCM5mywbZwvN6QFD8+w5dvLHMKFwE=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 1
+      },
+      {
+        "w_english": "NgA+Bf9Gh/eS0nPVURDxcsu4YTjSZDVfi1q9Yqs0vWg=",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 1
+      },
+      {
+        "w_english": "IQplkyoK9/PxC2P5EfwtF+UcPT0aBNT68WTTnGonPYM=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      },
+      {
+        "w_english": "oLzC82TpAxMPPPtIaZiTUU9cbA4jnkxJif2cEBMnkdP5L8i7qFX4AGnelrqaOVUe",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 2
+      },
+      {
+        "w_english": "8PguYG9X3BUg+IzIz9neow==",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 1
+      },
+      {
+        "w_english": "9jKN0jmGhh2iZSYaFsjsgALnlWsABB/ZpAg1FtlnJWk=",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1165863468",
+    "list_detail": [
+      {
+        "w_english": "MA1gUc2axhgOuqz79SnnxZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "ykaf6sKyEP0s6F9ntqrvhA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "iCzkZSu7Xy123euFWi2o1s7MY1A6iBMUn9AqlL2E7yo=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "QAcUIntXELejsBvr05QokA==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "CfMu1Cl5nZqJQokiUEBHvhf+lojHOZfEot3Sinaz0pE=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "1/5pwsC9RkugYMOX0bGPS2sd0gbLVMAzyD9zkDNJzh3mJkOOZ4Um0bchAhvp93jCZ1P3c3WbuI+2suTE9WZJbw==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "MKsPkcH7BNa9oZmyQ9cLag==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "BUElLNH+t0swDK0ZLkBX2vRXlbJ+Cuhem+bHVS7B3fI=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "NC+kUwiZ9MeLQFCkMVyRyw3bLtwr2i9ST/4uZlOLBSOdBYw6Y+WdYLzOVBCU5rsf",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "KZn1x82L6Yd0blJtaRqwQRAro3OQaNem8uOw8wPi8KJyVb7iOTjKANce9FkVbIM7",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "uyER3l1F6wOy8cEQbi3fw9sPTCcyGHRURWPmAoAEuRQ=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "Ct3JKgax2D6Y9BndokWFQsG9mPZzd4KwmvpDUhbMhKqWODSc95MbrmOjQOPHNBAG",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "qqRHhGh2HKaiwPAdLdlssUiR8IXSzdly2dTbnrwp7Ik=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "xZcrVT08UwnW7lwoWpqFzA==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "5pjJXy7EvLY4h9zm8SxAuOfzTG8mb4zYSBGpcJ4BgLA=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "ekU2rdco8SwkS2IyekFZEw==",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "973715921",
+    "list_detail": [
+      {
+        "w_english": "0cSXFJ+cDEnegGocMqosnMDYALBAxe1ptma3dsBT06QslCI2NNEF5kKciqNyXiuZ",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "YK5XAk25eZ0qZgDfi3Obn6Kkfhkc6bw+3TsIvVIXGECVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "ovZYmQApxvW7id9r8xXV0w==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "/uJ9xYJYj27UPhxC1jY7ZQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "ZkSYjUK7R/zRRh6fIoxPNbkZ+wMb8pSecgeMZNJQuejZzrsbSl68aofPdySnOiMZ",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "n9yxCCEkdD0kbeOLcvayH5B67xY/EkS2n5bDFBjkJXY=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "X6+lAs66SqUQFPJJPwq20P5ZawG+A0ur3I7lEG/DEFw=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "TOaClFZvCLSnV3UFuWa0znPJY+J2IFUecGWzguEcbGWIt3VppDRsxCjFL8ewBu/t",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "+S8aP5Uy9L2EK4w0mvLOZ0c8g9KzkS555IlQRA+ABLbYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "0cO+8tCMDQRjRHMwBIYCng==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "5536LfzBuyyk682FDCF6TJ2z/L4qsK1HTB4cF85mn4iVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "leRvKEMqdwMzhZPS5Py6XQ==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "ovZYmQApxvW7id9r8xXV0w==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "/uJ9xYJYj27UPhxC1jY7ZQ==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "1MFPG30LOqrp8RwAOZOER7d43uaBGpFehFY1DrnpBX0=",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      },
+      {
+        "w_english": "OJUdWtUSD0UPs8UUB4Zrv/Q5HdyZ2LJMJPLK/d9oUMI=",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 2
+      },
+      {
+        "w_english": "SJt4laleMEa/6wazW//g+1OVC7ip56eAH4oqRBObe1Ti9pUwMJJKJ07/G+2tReUZ",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "x2EQYazH4m2bM761tYw7Iw==",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "O5jNO/uACgFqppzHK0klOQ==",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 2
+      },
+      {
+        "w_english": "x0rtUOw1RH2P2SDt86ubLt2k0cow0NRCE8/DizwtHsSNl4vF1jchqcSyDEBaEGWN",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 2
+      },
+      {
+        "w_english": "ynu85vTOiALlrygtBtiKDduCVOYizHlJPsUHLSZ5pu4=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "972269062",
+    "list_detail": [
+      {
+        "w_english": "+e0fMzVVQGm8XA8aeLRkkA==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "fBjo2EsV/Ma9M6UMIbUGsv8Ebs+ZwsTSOfjolnIVwiI=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "08p1tEBXmUxbg5Aebn1gEQ==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "eKncwVpe22ZyF9m+n1fYsQ==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "O32k4xvRMFV4T9DKNKQV8D/DlsB/QNCGXznybyFX35c=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 3
+      },
+      {
+        "w_english": "o5267bqc9gMx80QnmiHb3hKUhtlLz6tBkEOUUEMDO1LYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 3
+      },
+      {
+        "w_english": "3J2sfimbgMg4n9VcDG0DkA==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "aV5jpmB+ayBJDNnns/CLtygOpS527Ug0LV3ZWetltPWAJryOOqRbch2axiz/emgY",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "ryMnrT9b2oJ5jCnmyjXqa40vJpjH3veIyzRa7WUVTZ4=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 3
+      },
+      {
+        "w_english": "i7kx/8xvBzlsm8Gsk5ypmQ==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "aEgd1A9KFPj8EIwbU010PUF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 3
+      },
+      {
+        "w_english": "LotYFKDvsTon/V4ROnSzk7kuNotPiKpAuYsE16l20wAJpvjBP81qlpbaC+3+9V4D",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 3
+      },
+      {
+        "w_english": "LPvC/F0McUWdXam8weI89g==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "x2EQYazH4m2bM761tYw7Iw==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 3
+      },
+      {
+        "w_english": "8ynNlbwZet0USXJdRkffWwO2FTu6h0WT0Tnrs/2z9uM=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 3
+      },
+      {
+        "w_english": "zYSZfik7WRnE+ToknRT3KA==",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      },
+      {
+        "w_english": "8AsslgFg4HD2kNwSRcwLzg==",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 3
+      },
+      {
+        "w_english": "y0kiUG7zWQY7FnOTfmxElBw9fhenhF7FhOzNiclLt/8=",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 3
+      },
+      {
+        "w_english": "dpwjnfdjPAw12sp/drrYjg==",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "y0kiUG7zWQY7FnOTfmxElBw9fhenhF7FhOzNiclLt/8=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 3
+      },
+      {
+        "w_english": "yCEIO47HcV+yo7+4dhwdvg==",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 3
+      },
+      {
+        "w_english": "f4yEbLmat3XoG54Rk8T/jw==",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 3
+      },
+      {
+        "w_english": "WdemD7AWeMxcLXpd59+lBA==",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 3
+      },
+      {
+        "w_english": "9U1NS5pd5Hnr2SqVKJotjKaB7oE9UVyx80RxG8zSqcOnh88D1Xj4Mrez3U+ng6lRZaFM6qfwIUFrdGCteI2+7gHkbz67CP2gFaJPxdAIqAQ=",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 3
+      },
+      {
+        "w_english": "3Hcp7j0Q9/QuP3pYsUQgh2MrXGpBsQ31TTZzinfmAw8=",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-510148459",
+    "list_detail": [
+      {
+        "w_english": "fRo4epXRv4fNmtP+7iFn93lB1n+NhQg9DK7py9fNt94=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "zzv6RCzQhZltItp4OpuqM8wCaRBfQmRUgCJWP1cL6mM=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "PE2b7nxIExAbln0sxbMHcIenxFQrm3Lehzw6MMDvGLc=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "waUz4A70Z/oOaxUP+wTDjJVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "3V+wrL3zkG1sKpc5p4R91JVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "BJDGtXsifKN3Fxxirn6+d1hteICrX5+vOGAvqGUSdGI=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "ajowTm5BkCac0JL7Jrov2xs6acd3iBGOWgggi4LLCp4nwfT7/HbvMfrmunA1GQN4re+3k4eBh9aY6G821Zztrg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "2MTDVZX0T8Vexquf+9HOqD4sWn9zeXT1p7OOVLoBxec=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "MKsPkcH7BNa9oZmyQ9cLag==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "VJx0zxJhEZyGhGCmzRGP7+1uTWSke4UMahZHtv8Gk9A=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "rvVxNQAZe3vH68JLBbUV+A==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "/uJ9xYJYj27UPhxC1jY7ZQ==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "JtLDMiiFUte273EzppR679i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "qLeTXcDkg6mVGcs3TdiWpNCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "312536583",
+    "list_detail": [
+      {
+        "w_english": "gtd1HkuVM6QWNAqJl+XVOl7dW5Y0Z10i89W7njqRrOQ=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Vk93YxzWB6bwKb2tioz0Fg==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "nbB4dXKrc++j6PhXG7jtdh3VWljyf+I9Xit5262fr+w=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "AikuHb8cH3UW/zQ52AYa60haVXGgkh6YaheEazoeV9Q=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "pNyyWz+dfDlWT/pH6+BDYkYFNGVr44aoZ1YvR8sn/xr+UtfJh875CLrBR/myqpEYhJrfm5zKIyMDV0NC9oVmQQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "B60eDCL+PmdeORrLJ9KP/pNqlD0mL5fXAOyajNGP7Zk0UtSrCF54pXg6X9g3GbMK",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "Z6dzOkTJaRBqBAtQ5WelHukAYX8wgkEbkxRznCjCkHOVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "HYBB3d5yuR8evzB3OeVI4QBHgRrwXjsF/NslWhynDjk=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "Jv8GVx/1nJi2/4YWWvh1nT9fI8crO2H19T9/laZRLOiNas0rOzN+N9HqmrKsZVWY",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "MlNeAvc9dizHYfiMhYuuGw==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "FdF0zP2w4vOWa5TWkqLSngFlb2LDN95/En7owqRv+KebpZYrB8wlyottDJqFX1qc",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "L7yuW3K9LFltbawbpC3j5XBdG7plX0kbHCbj4AXPI0Q=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1426230359",
+    "list_detail": [
+      {
+        "w_english": "9n0QDxDs1BveVAAn3/Vzow==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "ga0AKoQexf+L8jab90z/TRiX6eDjV9WXxRqwtVpCVro=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "5ru0rwAQly0F/DMdbeTtb9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "OMXAXECEgcHP1HSlrRE1qZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "0kTkdO6TObuaVlLRZhU4Dw==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "WCmNfeXHQgcKz3FONW1Qm0qufYBuAyFf3xur+zhson5ADU4kzYhljZPYveYnarHF",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "MDtUqBLX0ukxCe7J1a2IPdxbwoM2PIKSM8ibUhj5Ce8=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "V00ia7YPnLuFMQpdRfNC/w==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "v4PLsnFyuHcIqLFbMhD/v91F3V3QVzPUTd7WUlKpmDM=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "K3KEFKzsn1QHgt5Jv8BWkIb8753aWklL/eu8MVBSg48=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "4/zqew4uyRHGV7oZ2k1kDg==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "eu1l5x/CACmz4rGcWforhhyIskPbdWVTSgy9Nv2ry3I=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "YmO9UE7eUzWtQ6wtF+EO6XX4ewr80I8YNokdPcHwKPg=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-583406119",
+    "list_detail": [
+      {
+        "w_english": "G8UPdC5oXS/7h61v5EX+ER1jyIv8L9czWvKDyAvjjd4=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "nJ5RlQL6nEM8qjbFepsohJKNP06FTCy1FcQEfjRMm0I=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "w4+5h45Nge2M6DReT2Xa674t1DbyF4sMT/a+GPXwv91+DJM1J7hNSiwGyqfFYTaB",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "DaB4AMQWVzs42Y4N1n5CO3onspOn47saqyqScO8tpsc=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "62lIhyaZpptkma8YGRXYzW9QZETLuszigx01W3QtC3x1T8TaDqTF0oI9e+uQV8AX",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "l8kAOEJqEzPTmQrRt97Lx5ecPfCSAG1PoF75QyeEsls=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "n+obghRGEpYFWNbx9XWLGpVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "wxB8sRgPHLc8dcy9si/7xQ==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "B70drZyKRLN71CAnMFlVMMTFzSvG+Bz3EYtVz1gwzloIUHa3xNzLQ2guFFR8xDvD",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "yUHPDKrN7dYKW+BSIp3dbAzwCQsGxbL/NWGc7KjNFCw=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "amsXk9YC7F8fDvVAqvguWyYGUda/wUZUPcyOtJq88Gs=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "BxjWhrWylWWY/Fz/oiSwsF0iRQjUhuWO4YyUzxlU+mE=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1365641334",
+    "list_detail": [
+      {
+        "w_english": "bKOiJzGXQ3rTnq2tl9kR2tNfOUuTiSA0RU9GFglpSfo=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "lNb74BuGpR/SvKxCQgQDzg==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "426O2JYBwFll2bxW4XXOLXHnnoDJl0c1uYiJbEt6m6w=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "re6DUf7VEogYxSpac0l8RA==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "kuZOU0yNYpkL1Fg2Op3H5DnQbP7dbXKU5cCGraZwyd4=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "NRTWRkp4C14oXVA+cDRrQA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "QDv5INrlObxAVBMHVkfqAzfCGL15GIPUaAgO7CzLL90=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "/CYtlEQOP86XKp7+IEWFAA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "m1bJAwfChEtzv1N5dyZNj05BKdyNtBndeGDXtBihr4s=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "hzydPKEEKT2dFHjZkuJUrcpiGRsL3Z4JaQNe1P+v9H0=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "wNrSOlzCr22II3BqOcpXhHA8E1Xj9/Vu9Ky7awfGfV5BdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "HXXtghvQ+u1nIYJjhLo1WA==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "2rBQqGa+MHEgPxc4WsN5/0F0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1150393886",
+    "list_detail": [
+      {
+        "w_english": "NZwB+7TTzZ45ZPvoCDrSRg==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "nYMwjvNFUPesB0IgnQnB/A==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "+thZe6918EK06YzHbjMVUxIMXFT6eFTuziAh/H6brig=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "h+/pIp9WigAK3BL9wBcNkh9FVohFarzKIWb1JxKSr3Zb+lOplQ2qx3pJj1WIK6sn",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "YNHUeJq631jiYG/NP5+8lA==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "f/H76TGKTMCToy7jBllU1Q==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "6EdpmYaliBTryyx+xWbkwfV37hK99MkVnFqBIt4w5mc=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "ENoQo9EXk/ZPrqrI0faUsEF0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "m1xLJ1252qtKQrG84gDQjGhGj4J+LvPOmyWuzpWGEbM=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "ZeZlyG9MFluEjPifaVDyUw==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "f/H76TGKTMCToy7jBllU1Q==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "jFKMPsDvQ1WLOw0i+C0PIGc4oGze64Hkf1Bwi2ki0+g=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "bUgQHS1oX6yW/6S4IJlJemh2nPPLwf2rzcbBm7e2zOo=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "SxLIQvFqWeApGNjP7mDkwIGuRng89IMf8HXUq+PTMWs=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "/W/gM1KwLEXXieOyQ6SXS1lhC54SrRjDMmLfWIX+PzQ=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 1
+      },
+      {
+        "w_english": "mfHbVK12/CRToAqaOG3APpZGvJc86qTzRNFXF0HC9lI=",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "pKNo6DZogBHjcgIe4cDtlg==",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "166247030",
+    "list_detail": [
+      {
+        "w_english": "vyGjJ7aQH9ZBGdH0t01GeYbqAVaARuSXUovJh4RJ9oc=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "i/6MdWTcg8sgSY595c8wew==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "ZR9hqQ6xMMhyT/gSLpvR63hCyThTJ4dWP6aaVcgckXo=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "nRzER0qdZINvMrANZLd65w==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "lL+AS1yMmuc2MuZ9lbMZv0F0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "xetFPUrv0Dr+TlFxwQZFWbN0zNtHGbf7X6YbIbG8nao=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "YNHUeJq631jiYG/NP5+8lA==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "6B8t88DxQd9i+JyS6BDO45Vy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "rwuRTTSTJxCBUMhnmV/huiGC/gG5d8ip5R6CH1ypBE8=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "oj8R8Wu/iKLhfux5d8DPxZMqGk8UEbDJPD84L3JxnIg=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "pNI27AcGyj7wQicvnWX12/Z3RPLHeixvXKRUfeKcR0w=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "xSemzF+aLGDgnPZOjprYaIeK/8vkmWTboGi5/La3PEI=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "9C2UusIVRd4J+SubdnD/3g==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "JxBLYuHcJwFH5XChwG39z2B7w3KzHDl8fWL8fNqPBM4M1pEcIk/sGKIHKet7AbNn",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1170560659",
+    "list_detail": [
+      {
+        "w_english": "v6MpYNgxSMaAhfu1Mt+pZbJkNJoIlErb7Nnb9smogjU=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "/uJ9xYJYj27UPhxC1jY7ZQ==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "ej14Yyd5uwFJ5L5JS4tA+CHhAD/6hhsUE15dRFUodd4=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "AXRGuNICtqTMpxxVlEZ8960uEGkPtAFWEGdKu2WQbxs=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "Du4kRqvVbRYXxdyZDGoY5pNeXwfZT7dcydEoMNMjtkbxzpFRc7KnsVuJ3v5IoJoLQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "UO2Ez8zpBLVFT6/dpdmX34gpn9IQ3ma6pWRODTCNT20=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "JOAcruj8TmWcrmzlYpgYNjoszJe9tpx+R7c9jGIX3ui7BHUXuzam5SF7Su30hOulFq3J3NA/B0f+qy2zqGTyTTZp3cSC6pkPsprE5xRyk7pBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "kUBIQxhDgEZxMnCBlGYPy2fdUj3KkP2wEE6acKg+OBoo8g/nzLOi3/pVSktyWsKk",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "I3dJ0oaBSIi5Dpv2y4c57rkOf7RmHltmT4PRkIxvvq7Rl6UAOmuUwUliJNLQOWN/",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1211189279",
+    "list_detail": [
+      {
+        "w_english": "avQRaAwshIoMfrcifKKbkkcw2ciGIv5hdiwaeUlLAdqawhEzo0K62PI67xQjgoR4",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Kqn0lHVSyQtgwluvectbDPIfyzmiz6wdjaGC4GFgY48=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "EvNvfX+0g3XsxJZ1W47U8W65DWQOt5Btx26hrhIA4xM=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "jevjdSaAt/N+8PAkSnK6+tCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "0MfO8GBJ+uBZyWIe33L/3x4mpWyt0pEyO0p9QV4lejI=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "da4rwad18fGKkC7iOVWukDPFKDVg9+EqvMMv2YR45Y8=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "pjLA5UkhjD8pZbaUF8SYq0aosph5XvTtH6qMklMDYCs=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "RGbkg7tOXoT2nP6m83gGdg==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "qmg5Ogb9cyA9RhSUW5Oe7W+nE6iQMJdZPxl3a9kvSMA=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "iH59HZ8k1/+dQX5d6cRa/djCnhGXXLSfopbbFnWsV4pl9+QFruVgtUXqXocs3Eqe",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "wAsGiJzrjffwo+SUSUmmPw==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "F0VusPsnD/SKM+OayYCF8g==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "/PUTILY+1HZvGHXwD7c4JTBQ44fcrkToR5DuxTiv01y32jm/9i8kBRRH4Igl+dev",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "fmZI3yIWhbCqMC1lLTh8pjKC63HYSCM4c3Wa4AZkQ5k=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "hGTmfMKrASqdESOLRg5CR9S9cqFout8zCm0A25CKn7Q=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 1
+      },
+      {
+        "w_english": "r8XuaIGtikCtf9HnX/RdccLus5qigQlyDR/6kYDZqZ8lAh0ibybsS8Ml8M14YKUu",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1943383768",
+    "list_detail": [
+      {
+        "w_english": "24QdPVzbJoaC7xUFSfcSgZVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "noATCySPs41lYr2lPwlJHxefJkpv35UVS5tKSGJHa2E=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "IMceXkQo17HP0bXkGn4Ry0F0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "gtd1HkuVM6QWNAqJl+XVOl7dW5Y0Z10i89W7njqRrOQ=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "n8rN0q3PV4OuwKznvquZ2w==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "QW1U6rCqNCrNrnpqoGCvrTXA+XzPyyZEp7HjnxrsvkY=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "/dVRbVTL4n43Qzwbz8qXeT2/7T1HjFKj2Es+VMOa2pQ=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "rd+X+/ErRVQpPxswH7m2Q8UnlUaF2SfJYuZ5cuhszrI=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "SPOzXlByYikuHGwWq3H4ew+OI7BHfFwvAWZ/IbZ1WUU=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "BYvXwu+TntUztnEfJWYYDGeRV3vEFA/DOJw6QM0CLIQ=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "sWMl8ua4qWgGFtRAMC1RmIoRuyilQUhO3A55sQfLmoIUyMTI3L2QAUWhgkcq8ULrh+gjbw2qBEIXm+gKvF4Pv7HOWsivI1kQd0qHjzn0A3M=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "wxV10FgKNqg81OFRQHQ2XXZI1o3hS5vqHSF21G6HRF0=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "7tfjGOgzumSQ2xn7aCkanfE1rgUa8Gah9wAzE+Spfu8uSWL+SUhDsNRPt47st9g6h8S/cMvIjIYCBrbVXosi1w==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1367623256",
+    "list_detail": [
+      {
+        "w_english": "HgM3VhoRrNi16S5FqyQYpQ==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "zeVZDkZlIPuTe/MsbpvoEA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "QdhzjmoAvHFRFli6WRL7yGJAAhe5Hyk0r6dkINWApxk=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "GEBL/bDeo6SjqUlElpPERg==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "rK+TVnIFApbGisyWGOhGgZmxXUNKZookCR+/U3XpUvNjKESV0aX2KgPr3kvh1gQ6",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "rDuRklzhQgcm4TX72xyMpHVPxNoOpMXSgj1765BXwBc=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "zyCzvm1Hksc+28yFIzYvqwg0a43YP6+Sv2vFMGmNBKzKXu8RUFhHkZzW6rtoBqew",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "taNoN9vnc5dmRPTpCM/Kc+j+hvxdkDCdQFOMAuIFvh4=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "bNZIfqUHoaaUmbPelHP6SeTRhoNKi9jOdYeffB9O7wzVyPFt9dK9uxHfBpyHVxb6",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "clkvDndBQdn4LH5k7tgE8LrHf/Ze0s8DsF4XF21HGq8=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1955738339",
+    "list_detail": [
+      {
+        "w_english": "YU85SWb5v4vOeunksxooQFFrQA35p1uwv2nG5/Ponxs=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "UQzihtxLb/BKM0FB9ybDyELhZm7IyXlLkTWAfcsmVbE=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "E4ctt48W/VKg9aBwiKk1vfTBWgRzxhgad8F2QAjIyeM=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "XEXnIf98EhJCRjtDqVVSmfbC6fmsr74k03HG5zoFjJs=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "ofmqVEvEv8aB/p4mNqSEBA==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "RJTaWPTwSLV6GKlG6P2IFA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "iZZRfltj8w+je43Q19ME+T1F2KgeHi29EM6dA9ZsR28=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "nDEdzQvztbLYIEgvxeaUGA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "HPtVmIawq6XOp3938mbPM4h2USWMCFMDM507ze3SumDHrocwcIgHlJOzqXQRc6VQ",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "8AsslgFg4HD2kNwSRcwLzg==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "jDeOWLnNtwOd9KadfEtI02egGljWMITR8M5MeLh2aBs=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "Peta32t1bLV6Zpj47wPblWnU4/Gut+BLOf4CIRY5+kM=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "vdjJTj+tVP4KpjX8r/2bKwCm9wp7JHjY8fZCw0aKcEE=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-810793996",
+    "list_detail": [
+      {
+        "w_english": "mJcO2gK0aGDkxBOl8HgCKqIJzvX0M6gIfw9vBKVMgMg=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Boi+Q2ULxPBu8KZrXX5E07Y8Km8ZaaNsoqL/8h0QPjQ=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "nKGlvW7iXI72XyqRxFSidmCeWD9AtS4dTj5zUKCQCyo=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "fh2BAuLzXZgTI72hDBFZceaByHmEd29pPs97Kqxqumg=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "nS+p8T6Gp8hlXCFOWbIg+N1GfXMPLXVkxOOSys4WRxg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "503iJWed6jC1Zwn9E7YJNu/0mE4fZV1u5kwwPk3UKGU=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "QeSbn9HuvZFVqudWC1YsYHl4K3RSjtXoSQtN83GaMUU=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "uBt+c6l5oXAKy0lSwtppyk/ZwX+9Hh/EQBFSzNWiOvQ=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "bRMEXwSanNcumVdL1OliyI7HGo5QO+TAkQno+JJCfdZfuG+y6YMnOskNEIL7KiAo1KbMvGQrSVud2ZZpe8yW3A==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-821916460",
+    "list_detail": [
+      {
+        "w_english": "dTVwW7g9QfT2WyjmGUrXRFqyub/EIuz0lXF4kOi8vsD9yfk1MBv19la/l8yIVpHK",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "50X/yykY05yZU/KIIgS7ryU6xSuAdk/3GsTBDaN/D3r0l65Ez/1y3w1pIAqHvEw1",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "XTce90N0wLqruodvEte4rg==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "FDYCZm1/83VUoc2rgMHYSBSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "3r7t6DdK1tDMcKLwAPECJgkieFm5c4BMWnNDQno6WCjVqdF0gQ2aGcH5vO2dZFCnpMm3v5ozQGxRzf/XliX/Kw==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "Kyw4b3u4WFw6RMm7zNBztg==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "n0nzb2AZD/gUosgREmWkD/gOHHcnV0+Jt1UXxnSjxEk=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "EVMDhv4viqMUcNqmB2Px/niDmwuJBgAQoPXOku5vF81FzhABcmPrLgebnJMclwbU",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "NxGIYk0fYVAjLBinUwA90w==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "NoCH5SrQiIXUEUd8xFl5Kg==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "qbVYWJXeAc84xZn3AiVlXeY2IjGwQw12R92rwc+5NPE=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 3
+      }
+    ]
+  },
+  {
+    "id_store": "-1256251887",
+    "list_detail": [
+      {
+        "w_english": "2cwEDoXq5SDcoxaIC30gdCJH/YH2REm9I7hxVHDJJ+fSlap1+FSL5jVGEFsFxxd4QXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "5JU6tqE4ej55Zq9Cmo7ov1u2g23ihMAi0ybbDmnUg6Y=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "4ssJY4dH+bHNWNUZZbIDiipCVfcv2j+F/bM+ZgNP/hG19QYLObXMRnUsibIIpxD3V06i6RRqsFfWuA1qwbiM/w==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "zxOS8606H4MvkTHUYxY4/aD9loWzVb2HsaBW1eac18ZBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "ZyBJ6EgyJBk83fDHwnpNDN18Ah84XcxWWsDS9rJ3bMo=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "1yUSZDkR86TYiJ9sxLFT0P/WnIX6escyGVrm81Ef0r/sAX6TTr2MQcfz8ZxUB5ksnzr4TMlC6dlfKdnKiEpQNA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "0HC6LSbiXGBAiJbpZNuFKgPO8JjeiEiWJD6wzqn5Erw=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "X8jQsdZYxOXvxOlMc2BoRrHXKx05LLl6qF1em2r4Gtk=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "jgKAkqi9GD/dAZ1WR0KD8g==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "Z8HStlkNGl8bGrP2jyf1ctoPEksrXuit8Ll+TkUHHl6uX8pEx3mhy4G+SheZ/tCFQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "VQP+Je5DWIuqJ8M8T0tykEq4xz0TzyuffxzQ8fbZEoKTJw5rl45c12QinSdup9i+",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "g9DDuruTX7X73S+Bmso0uA==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "BGb6YWfVMOhDxY48XO0MJH5StHt1ygx6gXTWMyoNbLFKgzgZ79vb1lcggz3/+LeETl0KajUh3mCCMdFsF0MPg+aByHmEd29pPs97Kqxqumg=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "nqmkcUqOOPX1S1xkUG6zR6v90+tv2y23zoRWqxJtR0NBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "RgG53DqLC4/QRVaZviUsPjZZUUaE4RADp+nSiGnRCH8=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "OFVbXNZz1IXwUui3r8F7xBgQBxQubxmqDOClrquNMHNQyHqiIiMdi7o/J2W6jayi",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "DjWbqON+ElWhCrJLUR3l2GVHiTjJ7DSvhvKiQqirUsz7HosTF0z4cpZQdorhIawjK3dgCDwyIj4KZYzeABTVgZ+3RdKweFza9eZ8pycQyfnbQ3rTKhIOiISOyVS1LU3c",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "TZ56lXUAEw9q+Ov44YhlnDJJ8NOk4D7BE12ccyz+2GE=",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 2
+      },
+      {
+        "w_english": "dFzq4sOuqWqtFgDv1QLuR/iLHUgdB8CqYU37BKwmr6eVcuO9OiIUIEmJYMK4FUR1",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "sqS3vr+gENOme7b36H0rsoXLsJATVwE8amUUuZjlgygIOyXtheaHa46hPQvwxVU/",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "1362478818",
+    "list_detail": [
+      {
+        "w_english": "zTx9hMuFX3F5XwtyhE1F8p2Pes3qQ5VpA6/sZK0ACev+dwhvcY2JHVg8gr1mRZ8t",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "3J2sfimbgMg4n9VcDG0DkA==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "yvU8NV3B8pQle93+7o8AlQ==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "M7aC2MSqUflcTP2bvjs1zw==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "zJzW/U9fvlKVLJVL8VTwew==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "bBhY77ZpYp7N7mawA6UveQ==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "8ZhrmmdRT4kVOS+Ky7Kfyg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "HKPyKGNm7U/AoQEE70VelA==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "z+AbLSgvf7/J0eBsE8/rr60omIE+f9JiiBJnYs1PuYw=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "CWmMoOqGELuOeom+CiJ2jf92N3YdAf4PVoEcQmKKBdY=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "DAxodyxJjY9jzg8Jg/dQbOH6+TY9avPkTx4aJJMBOrHH71nWOcwDdzxGm3lZTvZL",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "3yBhWdJALwfAlVA/DAP+xq5fw20xvMhXpNjRA8NG1+U=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "xoJSpktaP/v5c+m1pQu5MroSuCaV05kH63CiekWXzq/Upsy8ZCtJW53Zlml7zJbc",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "eoYxzanRILdOwMz/iurzEt4JG1fqWdajlasD7DgzcGQvrsA3Xvd0Nuk/K/vEX/l7",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "/HFN1lza2a9aq47VJk8W6PABEsfhKaY8U+BVWgmX3oc2o8gPC7jSO4ooa+XWlA6wQXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "BM4Om0WwDwrottSrP1/zqlRnZ6OX+4w3QZDQHMmVaD4=",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "98QvEQO9VGKL/stdgqtqJIGScRIo7e1OsxrWZ6BA+7l1hZsHa8Deu6Lw+prKkaurwivO5EGzEQRnTfhjI6vCog==",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 2
+      },
+      {
+        "w_english": "K6no47OVUfdaH7MDA4X8qzp5cJv7CN4dp3O3q13pGL4RjF/axF6v5ywy7VqVftKaBtyb9XFbJzBpd3xlILXJwg==",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 2
+      },
+      {
+        "w_english": "cTJ2vFEdTcqKLYvytr9IDpVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 1
+      },
+      {
+        "w_english": "eoYxzanRILdOwMz/iurzErQPzL578KrL4Rt4snaeUQRS9vE/Y3pECfHFbe/lmFp0hEUAgfUaRjhd+9CMTQunnJhMjJDdaVKGxNQ6ubkvygA=",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 2
+      },
+      {
+        "w_english": "z3WhyyQUVLDWbDURKiN7eA==",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 1
+      },
+      {
+        "w_english": "wFxYJdz689yNb8ThkrV6i6AlxaoDNqSF7e9Y/h2KFm0=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 2
+      },
+      {
+        "w_english": "ojnGyQJzP55G0tWhdZKmnQIpGncn6tsgt/BDTiKhCbXja5cpmdMpTXJ/OnZbacC+QXT/+BUlek4tLD8k0LbDpg==",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 2
+      },
+      {
+        "w_english": "m6/bJeGg5Y+ycnD7IANcPA==",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 1
+      },
+      {
+        "w_english": "deelNr+qPXC0qf+uieSaps3FBIi2ePAPzJqAvuezsTHWQ+7Sbb0VdA/K4nRYLKMp",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 2
+      },
+      {
+        "w_english": "PnzpS+L2z7f6tByDB5tEFB/fVMqLQvlV6C0T0qh0oO7p1YsPb2F4q69HjE+UmDt3z5jRWoyM5VONup+nKjIRtw==",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 2
+      },
+      {
+        "w_english": "KpGSWGeAMBGn8KdfUrLHZRuUTvuYJsblNYRCsNStX4whgGc2hbZ4RR3iusiyteyn",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 2
+      },
+      {
+        "w_english": "QMHiHfBTp3NqCVihFardHmlDEAQqyhi55PdabkwoZKA=",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 1
+      },
+      {
+        "w_english": "U8QE6N3bpjbr9iQHhAUhCw==",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 2
+      },
+      {
+        "w_english": "fu5lDdYV4f/fptsrO8vuSQ==",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 2
+      },
+      {
+        "w_english": "ojnGyQJzP55G0tWhdZKmnSeLNkIUGIpEoyUoeVn1oX0xeG2IikGYHX5G4PNdV7hHolXh0YCKuvIXe1BQvmcrwg==",
+        "w_vn": "",
+        "index_dt": 30,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "905784209",
+    "list_detail": [
+      {
+        "w_english": "M8fYuVkBpiKdi4jYBCxj49R6gp7nRFBF306ErlzKcQs=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "kuj4910oLxHb6XjdOVwHb8H76OJZwRqKPgSXfg4ZQI0=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "VOV5YY18zu+SneaaEQNnSNG7S2cel4lIUmOJ2rtWLzM=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "nDEdzQvztbLYIEgvxeaUGA==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "rSV+q8bRF0kVedBYaTjWZAQclNyirCOBQHBhYKTrnnobN7lIn72nIGsW56mEqtFluMdOxJI0gK31OVTcbldcbQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "abyKXlskdjm1sxbIZrF5PfLeZkTKI9i+kcdY7XTuoqtUfKMwcpyEY2lWWPKKyEoA",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "cka4ymiA63CUkIpAMFETrZXMhgpVoLh1RZ7ORyQu7cXYgySMJyqy5krR+bOHrid4b9vH5hoENbw/uwnl8e/5lajDu/+pcdmDJumiFv6xefqqVmH45hpZ5y2bMKu9gAV/C9qvwGVqudjK86pQpHC3Fg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "W/8FilOXIIcAFiLfLbMw3fspDz0g6NRP2hE8eEr+5KV+YGjdVrFtWguzK70VIKfV",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "xWM8s1GdQMhgkKsMGno7on7yMDnpwjHdGAOmQLGiAPOXTQNvymrC8o9rIYtgh8HO",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "L9RAwLnYzH3CiQovWCAudV1sxGGrsntXw0TaC41MUL8=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "nMmHtnBy8F8gaWIayLZq4w==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "1czYqjPa/bBZoWAGz85k96GCEgT4nxXbPA7kgcBR9/k=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "kcisTh+RF4HvuPsDoatvD604bZTJWHWm2fZ4L5iP76UrQ1djirwds9BlDI68lVkxinU5lRQdr0pPpSCyI8+wN+q802DTCm1sa9m5jD/C4dV0bwfPfJZnW7pGSfKY1pV2UPbkW4vWR3r2DpDnpVspYg==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "+spy4X9yJ6oOU+bDaEx/3VjMClSYwLzm958cCuBSe6Q=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      },
+      {
+        "w_english": "WyaxrCtSmWi05zlXn4DaKNg8oPiD7xypzGWzlFMAsJE=",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-591201369",
+    "list_detail": [
+      {
+        "w_english": "CQBwKR4qVmFGqhhdsR6xKJDLIvB6HkHSQnrvqs/s1drd2UI+5xhWEyc7zUTZOQjm",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "hEU/GryXE77GyZ0DZ59bww==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "RyDnAOvCnrx1+zjp3TLqGCZ9giUwuzNquANNSspYcSmhlinBiG7OKQwRSknf0P1S",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "HBx1nJVUII1w7k83oVewXIbmdvAa6uoJdHVJIw6awv4=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "0KpkCKEfOUwy5UFJub/Axg==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "2+PQeQq3kw9kdnkqHHw6tWV7FfTFWmXsemiNpsjuVWE=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "49rGoCSuREQuaU42B11wqQ==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "Fan/dcaJ/ljm+IhGbjG+CNWovkMXfov+6YWgfe1DhPE=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "gtd1HkuVM6QWNAqJl+XVOl7dW5Y0Z10i89W7njqRrOQ=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "g+wrwLoq1FkiRMbduhXqL/ff+3gogujRrA9JVn7m4GMUiYVXo3nzLCvXGDoKerEY",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "XZl3VoQQU5OGMZJsbvYbiHp+13xI/wGJBoUauhY0YHE=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "mYajsOVljc1vsKoSB+aJ00F0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "Zy3YYSSxj38UZgbXqoep7uXZ5fnh6fxxMohO4OBTgEpBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "beTk7Qka5ccw4alE9R85dQ==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      },
+      {
+        "w_english": "V0icng9jL0DOfZa8MplpzeEt73ictlOTE7r0APO9AfXzKGzN1c/j2xESGPi3KaX+",
+        "w_vn": "",
+        "index_dt": 14,
+        "character": 2
+      },
+      {
+        "w_english": "b9ZWFlz6RAt3AZH4b/0/mx87TBNJv5SRtvUzWcN2B9ZCF8yDNZP4g81owbX6iSYY",
+        "w_vn": "",
+        "index_dt": 15,
+        "character": 1
+      },
+      {
+        "w_english": "MVUAh33cMhw7C1FTG1ijVRJhVOFc0TQ3asnaix4GV0A=",
+        "w_vn": "",
+        "index_dt": 16,
+        "character": 1
+      },
+      {
+        "w_english": "BUuOCaJ1jIi5qUciebrt3vecDeGuV6fQEKzv1HaTBCRZDErSHVUKhoZGgzCnr5X0",
+        "w_vn": "",
+        "index_dt": 17,
+        "character": 1
+      },
+      {
+        "w_english": "t7D0JIXmVFgvUKQpz1Irn6ZCOUTfIGnCjC2RCZ3+hnX0Y7MeB4eeX5aHj8ZKEF9U",
+        "w_vn": "",
+        "index_dt": 18,
+        "character": 2
+      },
+      {
+        "w_english": "fNREubvSw+Zlf25Fc7yEtftuCl5OWe6pUaij5wTXI9rcw9JAHR5RaO5RN57yT9eCg7VMVeT2IjQV1xp5wlgMyw==",
+        "w_vn": "",
+        "index_dt": 19,
+        "character": 2
+      },
+      {
+        "w_english": "tiU98zyANW2vmx0ek0zZLnz/D3/nAy4CvTuwQYHmfsYVQ5Oyugeo2hYqXNWgw4gc",
+        "w_vn": "",
+        "index_dt": 20,
+        "character": 2
+      },
+      {
+        "w_english": "RKOXZzOcN7CoGLZmmPu9oEFvXo5SUdryiPGxTjKvKwo=",
+        "w_vn": "",
+        "index_dt": 21,
+        "character": 1
+      },
+      {
+        "w_english": "lrLOLHh11muMeAQlHcFWZA==",
+        "w_vn": "",
+        "index_dt": 22,
+        "character": 1
+      },
+      {
+        "w_english": "eyAWWN0m4oPlDjt3wzUN3gfowFGsDxN8Dh0bjsm/eFc=",
+        "w_vn": "",
+        "index_dt": 23,
+        "character": 2
+      },
+      {
+        "w_english": "LlGpoM1QsJgoet8IRhz4v+o/Yw8k53pdptPfm5ZMKUA=",
+        "w_vn": "",
+        "index_dt": 24,
+        "character": 2
+      },
+      {
+        "w_english": "aEaeUAUmo83Cq18+/bDQDYWyD0CDZYGy4KT4oSGWHIc=",
+        "w_vn": "",
+        "index_dt": 25,
+        "character": 1
+      },
+      {
+        "w_english": "ttj/625tgz1AV5ksfaGsQ78s2+2Aw/ssab1SbSjO1dI=",
+        "w_vn": "",
+        "index_dt": 26,
+        "character": 1
+      },
+      {
+        "w_english": "tvy0YKmsSLW/hs1dFKaiNg==",
+        "w_vn": "",
+        "index_dt": 27,
+        "character": 2
+      },
+      {
+        "w_english": "scj2SAG4Df1riFWoLSAi8GryC5o130Ro2CrYThe4pfA=",
+        "w_vn": "",
+        "index_dt": 28,
+        "character": 2
+      },
+      {
+        "w_english": "9ms7nFqcuuGwECi/OSWMiA==",
+        "w_vn": "",
+        "index_dt": 29,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "1620248630",
+    "list_detail": [
+      {
+        "w_english": "9feOw03BSY44P/4y2LwvVKKpgD2MQ1l9WOdPOFdLX2VBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "cjzv2Ox63YDbj+6p7bP7dw==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 1
+      },
+      {
+        "w_english": "YQ+wbUQYkLOcuZCGYOoD9jmb4YTNEeq7YfvI/GNmUp7YSQbDKfrD5I+yWQ4erk7m",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 2
+      },
+      {
+        "w_english": "ZbcPpQt1YTIBohNLVDqNb0ZRGtE31UEnVoZOm0vCv4Pjg3jOtc1caOOKU7C2KiJ5",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "ygGQdtuL1cIkbtDU10XIOhNcMeoNXK6bPmVVpOYCjEM=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "tXrYdvj8MQ4LSDpfygmA/g==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "gWFXMIKcKsfBbkcIKYnEHbo+iI5DVUSEiP0KOCU3xlUYc/TyeR7cOBNw1yiuu7OK",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "51iqLosQVIjBXe6D1q2ifx+zqQ3eUlzcy8krNeuFjR4=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "hOO+XY0SBVMPOlj6gxD3+VqD2qAn2gxzzNq6n2LpwtQCZMn84UJpFqXbQer/NDal",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "1827865908",
+    "list_detail": [
+      {
+        "w_english": "va6Wyr4leLo6MKH4XUuvREjb5kRCOOpQxpcb+8uL8KHYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "qLCnH0eToOEY4DMUhZyZJE//CtjSlIzwisKb+oGLiq4=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "xfnoBN+iJovTMxk1XXduKGl/CgoYYTHbMa8EtqHBHDs=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "qfv3ZrRegvd8wtIBtPU911oXI6NIdyJm4wiKpbtZSSw=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "MuGBjO3C6+a19YksloRGPi9PdE8Pnc3NVQRD52VH6d4=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "yNrK7ajEy4viO6TJbGsTuQ==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "EQ0tXAM5pdviPk43lxyGwNCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "SPnn9D9K80Mg7z4JiEdX5KzNDSlgTwF9U2LRKYgKdgI=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "i7jGO/s+UDKy0nBAgWlvwDiNvhKYWGkee3IhobjrOaY=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "A3xXh/Z5z/ghV/AV4vWBYa8xeLWjrPFvA0HFXpojZZo=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "Me7gnktTbBFEx086JiEOGQr5VU6xvAUpBQ918PafUmk=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "hpMCFD6wBD4aZ8XDkM0tCkRwNZoITZxNqxGcLZLkCxwUV8mYE/nVoKId5WE7dwKjiq385i3tIu6yUdI/cuoVNem9EzOlTLihpK3V2TctxaqmC9+nIGCJnamGUlKJumvM",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "LS8bUGBsLwj5520cZ0a/bcCjUY2uK1Fb8jKPynoSR+M=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "274681001",
+    "list_detail": [
+      {
+        "w_english": "9THJS5LQ0BmlAh+7SeB+q5RM1qj8XqcsajZcJ+ppOp0=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "2CjuWQMmpovKAZ4VXrpJHpVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "qenJvu2bnwx9dLFn4C960PjEqXOYkl/D+fuR9DezkZI=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "Ecfuh0oMW9p3U7VhWrCLpAllD2DEBa7UhBc9G78nhBg=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "s8fZ9XeiSgMH/QRM06HhdQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "z0qFlDZuXvdfmN4kJSXdsw==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "+EksHDI/G6ofPb5eczNrQSFpCqPzxdgeBrDTVVaueuI=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "Wl8T584a2HRucSSRiuovmNCh1u3OPtrBar4MZAagzDk=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "T/IPg70OgT6W+zML/QNTv59iOryAPWOQkc3y8UAOTVg=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "2PIZ/N7GyTdpJVMU8yQVi9o2SJ37eh3qdX9g4ycEspvbglTmIsx5ST7FBy0meabu",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "NRTWRkp4C14oXVA+cDRrQA==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "9650869",
+    "list_detail": [
+      {
+        "w_english": "/T1hW5FNx5mqV6bC4/gi/7YylAm7nUwWcly6RGFq3/4=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "OGSJFqPY1fFS/iiEKf2csoayLL53gfHK2pxZaD3X9MM=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "qb1On48gjjBy0REfafzzNG4TtynT74S4np9Hf/hgxxY=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "V00ia7YPnLuFMQpdRfNC/w==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "PoZPPzyk+kdoRwVwEIZr46VB99H4E6Kea+FASxkIggE=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "keX+uQ8eXJHwtDOvrIfg45mGR5eIfU16DNscOHfJGAiBHtDsJkuwqejKLZ9uR/u8",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "4AjhIQn72BklfSt2RetegsanteUJal1/8JNKTpBiBXE=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "dgUoOLkdcvv5ApTrwq+6S0F0//gVJXpOLSw/JNC2w6Y=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "oLzC82TpAxMPPPtIaZiTUSEeMhSvB6xpa6dod1HbbGE=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "iJv6wLy84Yq6672613Wx9VOPGffaAV9HSfNxCZcIq6Q=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "tXc6ouDl+dKuY18FFN3bKg==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "kUo4mqJwxhISt1PczcMhWTal2qHIBIazorerac5iEkk=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "CLK42HHwf7UZl4WaAeOGsA==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "279675368",
+    "list_detail": [
+      {
+        "w_english": "4G4x9hcUyhPjIUd9U7E+jroyibPvVmnHhMMUcue/BD0=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "/1HFgWiGDiDWYdVvc0EJzvhPTyxZeav2LyHm0MaP9S0=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "OF0yF+c5BqoJ/c7qFCkokkg33651RswUdkIppM2XjMU=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "m5eADibs0vAJrFTIKmdLeJVy4706IhQgSYlgwrgVRHU=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "4ArELghRjCCgpTILqYjtKg==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "wryyZbEg52smDTtLbb65EaxhGYhNrdMy7o4IlkSxM/w=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "MMomqENIDwyIj1eJF2I0Wr5JuNTCRcV3ISn+6ItraqU=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "Ay4VMtsrj9O7Rs7ct4Hh5X2L2/i8nSI9zPUTj6vG4cc=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "e0hGeri1DNnKVBntoRTz6g==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "MfYsyrH9tRGfzcLlBRR3LGBkMWyMGHnWi1+snyejMyo=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "Ftn8q64VlVDDMwMvTSR0NRtiTm+zGZY3t9LZ3yH7ukU=",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "hV74Lsp7kwIwefec3a2s0YdfhVjBUQzqchjefDaRZfw=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "uR7CsPqM8Tfo4lwspH2Qtz4TvHYkrDhyebvH5RthDxM0Y6jPPcRbi7kB0Skrlf067U/tJt0Z7BHsFTXR49i2gw==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "KlSK8DeAIBvvcyDPgftZmqA13V7hZ0FWFv5wHlZ9shY=",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1039075282",
+    "list_detail": [
+      {
+        "w_english": "PHOEUCwURr3GmD0FKaUsgiVbW7YYwRE0uCg3/s6uoZY=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "A8L80ZqWWiZMv8VazVGkzxubI69mAiFFqaJEJKXC52QM3BPcWSC5g86m5JTLFfWJ",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "9aZ18XtOrDCQveSXnyqxYP/ykKuKwztnS0kcmNIK0CM=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "jK/QxgEkeByZSxNWzv+PYyPPFEAV1UB8sU/QsLYeh6E=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "1VuR2RN5k1yqa3eo90hDEg==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "CKY2tocjpIGBsyhkF1WgLA==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "C3vrLhDVbwBloFDAryUMkeGk8OBPxOM+26k2BoGnf/u6qqTIDfIwQK75o3zodw4c",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "yTIOdSS0C5asuqYHD00aTN/cQ59YXJEj+SjkpR1rKXw=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "DnZeeLJL/2I1bvnbdT3FvA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "SIhBphoT7gfjkwDGOgIY5azriaBXOyx41KijK5M7r1E=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "a0MCRDk/mqhaM8kG+zt7NDws6JmW/VhBoIgjrXoJjndStCGB/k2prFQTG2ynm30ZyzlT1QHbqN85JeZxHjU97A==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "797328300",
+    "list_detail": [
+      {
+        "w_english": "eH18oiI4YnvuriHBP//LpA==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "umdhIBDnW+VKix/pSHf5H7D4U7KqHbjP51uzNy0aBpw=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "gvhEfiS/zv71lMoOM9HFqUmroYxEsw0LPeG/Y8+JIgRBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "cRREXHHJui/1accFICDFGMNSWG3/RZKmds1VIUeaGSzYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "jD96lwR/z0NX6SmZEiAMCwf2deijjwnAQoXFFoRVRtg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "qooGac0RTb4vbO9zgO8Lrw==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "X+D0l42RKUJqZI6e5qrX7jTp8mTPVJKa0vbJkPdrxGg=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "UiPhzlonXu2gBpJIwvr7/lzP8c5fphfgYmpWOUwWI0DYvrj0tUiGfMCRTlN16fHE",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "nDEdzQvztbLYIEgvxeaUGA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "kYRtUpEvRKpN+dj3PhrF1BFy/K/UhSgz2DFN8yiaYO8=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "4KAAzqGkAR5QlJefzSaKag==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "iHACkBH4mr05kPThG7C8J0AEUuk+EFSe5/aS+PWeJqVBdP/4FSV6Ti0sPyTQtsOm",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "2trOOuup5bpdH3nG04soOw==",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      },
+      {
+        "w_english": "yFXMPJhRwQd0QR2yX3IhAIQTkp16gBo3rJuNEF68AhSb/93lbhH7Q/PlUE+3t2kAwQZmp7c8ekYAnI+d8gOCeg==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "297816746",
+    "list_detail": [
+      {
+        "w_english": "ncZYITf31QG+A6wS8gTWm9i+uPS1SIZ8wJFOU3Xp8cQ=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "L//5C+BY6K0pl8vnGwvRvQ==",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "cXVYFjmAhZsI5T7p4nI1t3xa/SxxUHJ1Ec4NGdZoPgY=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "V1yKnq7GQE4zetgy/Xmi746ZpZgNZFUvbkPj2cRWBQ2JqNpMg5/+hdQ7bhczY+wl",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "DaeKb54RYghN9obwnrA0e/6t4jEAISuG+opIopeB490=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "gd73ZZjgBFK0kK1gbwdtCsKHszoUSv3P+bjgKAYozKQ=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "mPOgvghMGio3JmDgtHns5DWoOG3HRLKC4xqMRKAQV2E=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "zYDJjWoIR4I6t+5Vfsh2Pg==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "vYF94ElwpBHMnd7bogIBpFaF2Br5iFAVy3JwS9Euaas=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "C3eDdUOQKhyj0XUYxIYF40YP0rqEsKr5J9HJpFYI3L8=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "ZbJ70sHUGy32R1+T34+ar7mf7GFbl9RFh2wGsI/HLmjUpsy8ZCtJW53Zlml7zJbc",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "UI7bYq6mF2cbc/Gfc6FbnkYp57q7SEPn8zJrf941oLo=",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "nCWSlSJUGnq8//E1i4X3dqjsEqKEawRtCJJyoGdzs7c=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "-1845666928",
+    "list_detail": [
+      {
+        "w_english": "vaE0AjdOM1Sje0njua67ykGjwLd8rnbCwEYE1vAf+SA=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "nzFVQUArWD1uSfHTN2H6AVi8bCB8a30wTNhRQN0NcvI=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "gtd1HkuVM6QWNAqJl+XVOl7dW5Y0Z10i89W7njqRrOQ=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "FVmgyMcXGESkWLW4nQtc/vXQwebbTufib9n42mTN4ASkybe/mjNAbFHN/9eWJf8r",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "RuUd/MY+7uaRmfFUo8sUcdSmzLxkK0lbndmWaXvMltw=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "6vykgH1758LwXuGdSyCeMKI5MteWSecaN1aT+NIQff4=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "RgvszlIGkEfnRA6L9Gew4vjEqXOYkl/D+fuR9DezkZI=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "N32LxWEta7j1pfYKnKbe2g==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "d+1ugE0q76F3rGKKqPRZmMj9e5W61JTUulO24/ZkMVuz13P6iN2NdkbakeVGX/Kt",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 1
+      },
+      {
+        "w_english": "leq5CKWL4FXWQcATlgzPvVg7zBK2FWSuStKtaaBigTbIkxsfVy7N7ym/BAXClBdU",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-582671638",
+    "list_detail": [
+      {
+        "w_english": "1VVlD/uHs3BH1qjwXtzBqclfjMMw7OXBC6lH9hRTS8A=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "57Ha+Fv8t6ECAI1iIzKNY4bWILsTb6kuiAc7hDuGXxQ=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "TiKIRnj2M++GYBumTQlmceHQW5/wVD/aU6DO0QhwRuQ=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "DV3Kq9MziyHsrYnnh982sIRb3AYOGDXyTei+mS4buko=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "GkSR0IJbRzFYeRFvVEJ3kUvelyCXRuFZa3HUg4vWVy0CXGtOISozrL0XTM/ouf+9",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "ZFOtEh6+Lh+bBQuelAgN3tvBwORGGT5+ADu0MWEaYpI=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "OzieNZqwABkFbaY51AY4wg==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      },
+      {
+        "w_english": "p32RAW1wNejTcXyANiBpopQU/rqrL57skVxdHnYZyDM=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "iQ/+17xG6iQ9fLwx8t8yyw==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "btfuIrbiV5Na2TwBihY9uFE8T536ijrOp4LwvUzGLL0=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "2trOOuup5bpdH3nG04soOw==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "w+2rqkzNAbZ3k7bavLqiPQ==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "LuqNJUeqwzUCH94aat4kvPi535/j0s8lWDXgPKw5jcs=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-89539039",
+    "list_detail": [
+      {
+        "w_english": "p9SYZhuSXOsJPw78ts85ODqx047VBKwfw4+xcbOUuLIvcx87GSqhqtG2k6HyXooh",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Avhe7nqXzR5gQBRdchqit2Hpx7++pc0jvFm66XW254JhWrmt7AHvU/MfFWvOw/xR",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "iZ+3I0NSf1+Gk4IXQ/7rXQ==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "vEwOiG0zfQLBt9DF0/W1fQ==",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "7hoiO4ZqEfLaDkreCw7w5YJ3WwgDuEiFHRnubP5hnW8=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "V00ia7YPnLuFMQpdRfNC/w==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "ARQ5jNwIIcuGbqhml9K8FbqqpMgN8jBArvmjfOh3Dhw=",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "lmN4spSFl1KZUWFWAt3eCQ==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "p3pqtshw022Yu/6d+ui0r6jLI/K93Ul9g5VslCjU7N4=",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "bB12dx9ibTNUBwY/WxCQKQ==",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "Xzg9utS+iLxwcfWcNIY9wPceQRBKmp38pEURZeq8hMXFdHcSEmUGqs7cpoDRfrRu",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "CfKBjjt6G82wFViAwes3a51/mEwFRAfUBZPhRgqjxE+cg/iCmIEOptMqfuwSIGC8",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "1652622193",
+    "list_detail": [
+      {
+        "w_english": "Bcfq6V4o5nde/++JV2yoXP2f6p4LXj3NJl29KZEJz8I=",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "Jruwqm8jUHiLerLTE732HhwPHMG7GJsYZmk781fcr0A=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "Cg1sz76nCxsvjjhqU6Rq5w==",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "ENNzqaW/0EfcggH6G67wnFmBiPOcRUuiUXccf99yi2cq6OWNag9yJRDw+hJQ6mKU",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 1
+      },
+      {
+        "w_english": "iZ+3I0NSf1+Gk4IXQ/7rXQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 2
+      },
+      {
+        "w_english": "dAWhR/tjmzH6jCS4xZo1AIGuRng89IMf8HXUq+PTMWs=",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "U8QE6N3bpjbr9iQHhAUhCw==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "Rwy+aYve3pyT8iRK40pu8w==",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 2
+      },
+      {
+        "w_english": "euY/NhbwJsAu8W7Y/ok+wA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "3HA1x+fj8GrgAFGCMz6/Ze4wLD3O7EYrOtB8Y/O2QxQk4arCO9SfjUZY4oNLtOaJ",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 1
+      },
+      {
+        "w_english": "xtBnhPBjAkePnPTKYupiPA==",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 2
+      },
+      {
+        "w_english": "hSmEHxTpswaRWMp/9SuKWBeql9VVTAmOOkrh14zm+y7Opgb6gjoUbRECxas04eV8",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 1
+      },
+      {
+        "w_english": "VV7lXebHOWfi5Izmywk9b7qGZt+1d5USvAczpzFRWjQ=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      },
+      {
+        "w_english": "syOcaXc+d2kpW9yEEU4Zag==",
+        "w_vn": "",
+        "index_dt": 13,
+        "character": 1
+      }
+    ]
+  },
+  {
+    "id_store": "20459286",
+    "list_detail": [
+      {
+        "w_english": "bhbaZASwe8DvGwWbETeIh1vsiZrHKUqBrtAalZakfn+NSiyc/8zyShBFQ/pUX3b/",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "lD9wpr11/GywFCP6JhCm9xSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "bHv6mHK1y2pPKEVWeJdTrc8AFE9ECIH5UYyCM/fadSM=",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "kvEiajT4HYKLwdOA3I5hi5La9FDbGGNPW+Q2rEQ0IPE=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "ilzMe9Q1hoX4S69tvkWzOBSJhVejefMsK9cYOgp6sRg=",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "aoEEinozIMfBmT45Z+DlXw==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 1
+      },
+      {
+        "w_english": "S48/dGEVzCqiYUcvwr7Az1IJ4eFAsAxL+vw3/obQpGKp7IqbTWCcWm0gCTa78d4S",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 2
+      },
+      {
+        "w_english": "UUrtC9VFWzfR/D55VFJCkfU2CUX003Ivt6FCdEh7pEw=",
+        "w_vn": "",
+        "index_dt": 7,
+        "character": 1
+      },
+      {
+        "w_english": "0Jb91HJO0nLWFjFmQVaAVA==",
+        "w_vn": "",
+        "index_dt": 8,
+        "character": 2
+      },
+      {
+        "w_english": "xkAsIeABhkcL9AsIHQ2kFswf5LSp4eF6RZzcoxj8Qgc=",
+        "w_vn": "",
+        "index_dt": 9,
+        "character": 2
+      },
+      {
+        "w_english": "oQ0zl0qCxvy0bj8YBiltP8N4bI1YkhiFbAUNCd4gdYddTcQHu5i2YdC+rqJipi6X",
+        "w_vn": "",
+        "index_dt": 10,
+        "character": 1
+      },
+      {
+        "w_english": "oee2Q3j/hRSSv1zqxsRKRg==",
+        "w_vn": "",
+        "index_dt": 11,
+        "character": 2
+      },
+      {
+        "w_english": "87SalaDhPJZMyLAMVyt+i1ylSAv3CYVYce0HWjoBIXc=",
+        "w_vn": "",
+        "index_dt": 12,
+        "character": 2
+      }
+    ]
+  },
+  {
+    "id_store": "-1507798044",
+    "list_detail": [
+      {
+        "w_english": "fQOS+dghgK697OADLpPFJg==",
+        "w_vn": "",
+        "index_dt": 0,
+        "character": 1
+      },
+      {
+        "w_english": "DuwkPqe5Ke0irzXfWv/frJ+muTEIR0chkXwmm3z0dqc=",
+        "w_vn": "",
+        "index_dt": 1,
+        "character": 2
+      },
+      {
+        "w_english": "3bTj7clzWSkHsAQyETdqNRJMiArYNeJ3vm5cJp1n8kFtaC3CodDuwa9OhMz1edPI",
+        "w_vn": "",
+        "index_dt": 2,
+        "character": 1
+      },
+      {
+        "w_english": "B03VKnWzC8RUp6i39KhDMGdCUPyNZL33s1bsGK6qsUE=",
+        "w_vn": "",
+        "index_dt": 3,
+        "character": 2
+      },
+      {
+        "w_english": "bB12dx9ibTNUBwY/WxCQKQ==",
+        "w_vn": "",
+        "index_dt": 4,
+        "character": 1
+      },
+      {
+        "w_english": "OY9wySA/hIVahZnmcbUXog==",
+        "w_vn": "",
+        "index_dt": 5,
+        "character": 2
+      },
+      {
+        "w_english": "aMudss0iOc+qIr/z0dPJ0A==",
+        "w_vn": "",
+        "index_dt": 6,
+        "character": 1
+      }
+    ]
+  }
+]
